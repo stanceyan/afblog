@@ -1,5 +1,37 @@
+title = 'Alofonksyone'
+copyright = "Copyright © 2024 Alofonksyone Blog."
+enableGitInfo = true
+
+# additional settings
 baseURL = 'https://example.org/'
+canonifyURLs = false
+enableEmoji = true
+enableRobotsTXT = true
+enableInlineShortcodes = true
+
+timeout = "180s"
+
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[outputs]
+home = ["HTML", "RSS", "REDIR"]
+
+[build]
+  writeStats = true
+  
+[taxonomies]
+  tag = 'tags'
+
+[outputFormats]
+  [outputFormats.XML]
+    isPlainText = false
+    mediaType = "application/xml"
+    isHtml = false
+    noUgly = true
+    permalinkable = false
+    name = "xml"
+
 [[module.imports]]
 path = 'github.com/gethinode/hinode'
