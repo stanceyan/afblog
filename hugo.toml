@@ -5,6 +5,7 @@ enableGitInfo = true
 # additional settings
 baseURL = 'https://example.org/'
 canonifyURLs = false
+uglyURLs = true
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
@@ -24,14 +25,26 @@ home = ["HTML", "RSS", "REDIR"]
 [taxonomies]
   tag = 'tags'
 
-[outputFormats]
-  [outputFormats.XML]
-    isPlainText = false
-    mediaType = "application/xml"
-    isHtml = false
-    noUgly = true
-    permalinkable = false
-    name = "xml"
+[module]
+  [[module.mounts]]
+      source = 'content'
+      target = 'content'
+  [[module.mounts]]
+      source = 'static'
+      target = 'static'
+  [[module.mounts]]
+      source = 'layouts'
+      target = 'layouts'
+  [[module.mounts]]
+      source = 'data'
+      target = 'data'
+  [[module.mounts]]
+      source = 'assets'
+      target = 'assets'
+  [[module.mounts]]
+      source = 'archetypes'
+      target = 'archetypes'
 
-[[module.imports]]
-path = 'github.com/gethinode/hinode'
+
+  [[module.imports]]
+  path = 'github.com/gethinode/hinode'

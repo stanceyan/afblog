@@ -1,3 +1,5 @@
+
+# main menu 
 [[main]]
   name = "About"
   pageRef = "/about/"
@@ -39,7 +41,7 @@
 [[social]]
   name = "GitHub"
   pre = "fab fa-github"
-  url = "https://github.com/"
+  url = "https://github.com/stanceyan/afblog.git"
   weight = 20
 
 [[social]]

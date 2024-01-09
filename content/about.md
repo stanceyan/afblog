@@ -4,7 +4,7 @@ description: Hinode is a clean documentation and blog theme for your Hugo site b
 date: 2022-04-11
 updated: 2023-08-02
 showComments: false
-draft: true
+draft: false
 ---
 
 {{< image src="/img/logo_var.svg#logo" class="img-fluid w-50" wrapper="text-center" >}}
