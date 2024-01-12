@@ -6,7 +6,7 @@
 
 ## Description
 
-This repository is for the Alofonksyone blog's code base, which is responsible for running the website and generates data. This is the basic analyzer repository that uses Github, is powered by the <a href="https://gohugo.io/hugo-modules/"> Hugo module</a>, and uses the <a href="https://github.com/gethinode/hinode.git">Hinode theme</a>.
+This repository is for the Alo Fonksyonè blog's code base, which is responsible for running the website and generates data. This is the basic analyzer repository that uses Github, is powered by the <a href="https://gohugo.io/hugo-modules/"> Hugo module</a>, and uses the <a href="https://github.com/gethinode/hinode.git">Hinode theme</a>.
 
 ## 🎁 What's Included
 

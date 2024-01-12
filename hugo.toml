@@ -5,7 +5,7 @@ enableGitInfo = true
 # additional settings
 baseURL = 'https://example.org/'
 canonifyURLs = false
-uglyURLs = true
+# uglyURLs = true
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
