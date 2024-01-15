@@ -1,0 +1,29 @@
+[home]
+    # sections = ["blog", "projects"]
+    sections = ["blog"]
+    fullCover = false
+    centerHeadline = false
+    style = ""
+    [home.feature]
+        orientation = "horizontal"
+        color = "primary"
+        width = 4
+        align = "start"
+
+[navigation]
+    anchor = true
+    logo = "/img/alof.svg"
+    color = "body"
+    fixed = true
+    horizontal = false
+    offset = "5.5rem"
+    search = true
+    searchModal = false
+    breadcrumb = true
+    toc = true
+    sidebar = true
+    size = "md"
+
+# [favicon]
+#     logo = "img/alof-fav-16.png"
+#     sizes = [16, 32, 48]

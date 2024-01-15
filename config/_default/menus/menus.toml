@@ -32,23 +32,25 @@
   pageRef = "/tags/"
   weight = 40
 
-[[social]]
-  name = "LinkedIn"
-  pre = "fab linkedin"
-  url = "https://linkedin.com/"
-  weight = 10
-
-[[social]]
+[[main]]
   name = "GitHub"
   pre = "fab fa-github"
-  url = "https://github.com/stanceyan/afblog.git"
-  weight = 20
+  url = "https://github.com/stanceyan/afblog"
+  weight = 60
+  [main.params]
+    icon = true
 
-[[social]]
-  name = "Medium"
-  pre = "fab medium"
-  url = "https://medium.com/"
-  weight = 30
+# [[social]]
+#   name = "LinkedIn"
+#   pre = "fab linkedin"
+#   url = "https://linkedin.com/"
+#   weight = 10
+
+# [[social]]
+#   name = "GitHub"
+#   pre = "fab fa-github"
+#   url = "https://github.com/stanceyan/afblog.git"
+#   weight = 20
 
 # toml-docs-start sample-navigation
 [[sample]]

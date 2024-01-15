@@ -89,23 +89,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Badge
 
 <!--- Heading badges -->
-Heading 1 {{< badge title="New" >}}
-{.h1}
-
-Heading 2 {{< badge title="New" >}}
-{.h2}
-
-Heading 3 {{< badge title="New" >}}
-{.h3}
-
-Heading 4 {{< badge title="New" >}}
-{.h4}
-
-Heading 5 {{< badge title="New" >}}
-{.h5}
-
-Heading 6 {{< badge title="New" >}}
-{.h6}
+Heading 1 {{< badge title="New" >}} {.h1}
+Heading 2 {{< badge title="New" >}} {.h2}
+Heading 3 {{< badge title="New" >}} {.h3}
+Heading 4 {{< badge title="New" >}} {.h4}
+Heading 5 {{< badge title="New" >}} {.h5}
+Heading 6 {{< badge title="New" >}} {.h6}
 
 <!--- Colored badges -->
 {{< badge title="primary" color="primary" >}}
@@ -189,54 +178,55 @@ Heading 6 {{< badge title="New" >}}
 
 <!-- Colored cards  -->
 {{< card-group cols="4" gutter="3" >}}
-    {{< card color="primary" path="blog" header="none" orientation="none" />}}
-    {{< card color="secondary" path="blog" header="none" orientation="none" />}}
-    {{< card color="success" path="blog" header="none" orientation="none" />}}
-    {{< card color="danger" path="blog" header="none" orientation="none" />}}
-    {{< card color="warning" path="blog" header="none" orientation="none" />}}
-    {{< card color="info" path="blog" header="none" orientation="none" />}}
-    {{< card color="light" path="blog" header="none" orientation="none" />}}
-    {{< card color="dark" path="blog" header="none" orientation="none" />}}
-    {{< card color="white" path="blog" header="none" orientation="none" />}}
-    {{< card color="black" path="blog" header="none" orientation="none" />}}
-    {{< card color="body" path="blog" header="none" orientation="none" />}}
-    {{< card color="body-tertiary" path="blog" header="none" orientation="none" />}}
+    {{< card color="primary" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="secondary" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="success" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="danger" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="warning" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="info" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="light" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="dark" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="white" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="black" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="body" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="body-tertiary" path="blog/fourth-post" header="none" orientation="none" />}}
 {{< /card-group >}}
+
 
 <!-- Custom header -->
 {{< card-group cols="4" gutter="3" >}}
-    {{< card path="blog" header="full" orientation="none" />}}
-    {{< card path="blog" header="publication" orientation="none" />}}
-    {{< card path="blog" header="tags" orientation="none" />}}
-    {{< card path="blog" header="none" orientation="none" />}}
+    {{< card path="blog/fourth-post" header="full" orientation="none" />}}
+    {{< card path="blog/fourth-post" header="publication" orientation="none" />}}
+    {{< card path="blog/fourth-post" header="tags" orientation="none" />}}
+    {{< card path="blog/fourth-post" header="none" orientation="none" />}}
 {{< /card-group >}}
 
 {{< card path="about" padding="3" class="col-6 mx-auto" color="body-tertiary" header="publication" footer="none" />}}
 
 <!-- Custom footer -->
 {{< card-group cols="4" gutter="3" >}}
-    {{< card path="blog" header="none" footer="full" orientation="none" />}}
-    {{< card path="blog" header="none" footer="publication" orientation="none" />}}
-    {{< card path="blog" header="none" footer="tags" orientation="none" />}}
-    {{< card path="blog" header="none" footer="none" orientation="none" />}}
+    {{< card path="blog/fourth-post" header="none" footer="full" orientation="none" />}}
+    {{< card path="blog/fourth-post" header="none" footer="publication" orientation="none" />}}
+    {{< card path="blog/fourth-post" header="none" footer="tags" orientation="none" />}}
+    {{< card path="blog/fourth-post" header="none" footer="none" orientation="none" />}}
 {{< /card-group >}}
 
 <!-- Image placement -->
-{{< card path="blog" header="none" footer="none" orientation="stacked" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
-{{< card path="blog" header="none" footer="none" orientation="stacked" padding="3" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
-{{< card path="blog" header="publication" footer="tags" orientation="horizontal" class="col-sm-12 col-lg-8 mx-auto" />}}
-{{< card path="blog" header="publication" footer="tags" orientation="horizontal" padding="3" class="col-sm-12 col-lg-8 mx-auto" />}}
+{{< card path="blog/fourth-post" header="none" footer="none" orientation="stacked" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
+{{< card path="blog/fourth-post" header="none" footer="none" orientation="stacked" padding="3" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
+{{< card path="blog/fourth-post" header="publication" footer="tags" orientation="horizontal" class="col-sm-12 col-lg-8 mx-auto" />}}
+{{< card path="blog/fourth-post" header="publication" footer="tags" orientation="horizontal" padding="3" class="col-sm-12 col-lg-8 mx-auto" />}}
 
 <!-- Inline content -->
 {{< card header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto mb-3" title="Title" icon="fa address-card" >}}
     This is the `body` of the card. It supports Markdown.
 {{< /card >}}
-{{< card header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto" title="Title" thumbnail="img/watch.jpg" >}}
+{{< card header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto" title="Title" thumbnail="img/book.jpg" >}}
     This is the `body` of the card. It supports Markdown too.
 {{< /card >}}
 
 <!-- Custom styling -->
-{{< card path="blog" header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto card-shrink" />}}
+{{< card path="blog/fourth-post" header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto card-shrink" />}}
 
 ## Card group
 
@@ -269,6 +259,7 @@ Heading 6 {{< badge title="New" >}}
 {{< button collapse="collapse-1" >}}
     Trigger panel
 {{< /button >}}
+
 {{< collapse id="collapse-1" class="p-3 border rounded bg-primary-subtle" >}}
     Some placeholder content for the collapse component. This panel is *hidden by default* but
     revealed when the user activates the relevant trigger.
@@ -296,7 +287,7 @@ Heading 6 {{< badge title="New" >}}
 
 {{< image src="/img/logo_var.svg#logo" class="col-sm-6 col-lg-4" wrapper="text-center" >}}
 
-{{< image src="img/responsive.png" mode="true" >}}
+<!-- {{< image src="img/responsive.png" mode="true" >}} -->
 
 ## Link
 
