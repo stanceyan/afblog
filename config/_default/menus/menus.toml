@@ -40,17 +40,29 @@
   [main.params]
     icon = true
 
-# [[social]]
-#   name = "LinkedIn"
-#   pre = "fab linkedin"
-#   url = "https://linkedin.com/"
-#   weight = 10
+[[social]]
+  name = "LinkedIn"
+  pre = "fab linkedin"
+  url = "https://linkedin.com/"
+  weight = 10
 
-# [[social]]
-#   name = "GitHub"
-#   pre = "fab fa-github"
-#   url = "https://github.com/stanceyan/afblog.git"
-#   weight = 20
+[[social]]
+  name = "Tiktok"
+  pre = "fab tiktok"
+  url = "https://tiktok.com/@alofonksyone"
+  weight = 20
+
+[[social]]
+  name = "Twitter"
+  pre = "fab twitter"
+  url = "https://twitter.com/@alofonksyone"
+  weight = 20
+
+[[social]]
+  name = "Facebook"
+  pre = "fab facebook"
+  url = "https://facebook.com/@alofonksyone"
+  weight = 20
 
 # toml-docs-start sample-navigation
 [[sample]]

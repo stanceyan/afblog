@@ -24,6 +24,6 @@
     sidebar = true
     size = "md"
 
-# [favicon]
-#     logo = "img/alof-fav-16.png"
-#     sizes = [16, 32, 48]
+[favicon]
+    logo = "img/favicon.png"
+    sizes = [16, 32, 48]

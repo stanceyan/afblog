@@ -1,7 +1,7 @@
 ---
 author: Alofonksyone
-title: Byenvini sou Alofonksyone!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+title: Byenvini sou Alo Fonksyonè!
+description: Yon blòg ki pote enfòmasyon sou fonksyon piblik Ayiti, entegrasyon epi dwa ak devwa fonksyonè.
 thumbnail:
     url: /img/sunrise.jpg
     author: Harris Vo

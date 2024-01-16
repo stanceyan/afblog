@@ -1,5 +1,5 @@
 title = 'Alofonksyone'
-copyright = "Copyright © 2024 Alofonksyone Blog."
+copyright = "Copyright © 2024 Alo Fonksyonè Blòg."
 enableGitInfo = true
 
 # additional settings
@@ -14,7 +14,22 @@ timeout = "180s"
 
 languageCode = 'en-us'
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
+
+# toml-docs-start lang-param
+[params.head]
+tagline = "A Hugo Theme"
+[params.social]
+title = "Swiv nou"
+caption = "Nou pibliye sou paj rezo sosyo sa yo tou"
+[params.footer]
+# license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+# toml-docs-end lang-param
+[params.sections.blog]
+reference = "Plis Pòs"
+[params.sections.projects]
+reference = "More Projects"
+
 
 [outputs]
 home = ["HTML", "RSS", "REDIR"]
