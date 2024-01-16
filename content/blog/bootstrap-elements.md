@@ -178,44 +178,44 @@ Heading 6 {{< badge title="New" >}} {.h6}
 
 <!-- Colored cards  -->
 {{< card-group cols="4" gutter="3" >}}
-    {{< card color="primary" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="secondary" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="success" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="danger" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="warning" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="info" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="light" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="dark" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="white" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="black" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="body" path="blog/fourth-post" header="none" orientation="none" />}}
-    {{< card color="body-tertiary" path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card color="primary" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="secondary" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="success" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="danger" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="warning" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="info" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="light" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="dark" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="white" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="black" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="body" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="body-tertiary" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
 {{< /card-group >}}
 
 
 <!-- Custom header -->
 {{< card-group cols="4" gutter="3" >}}
-    {{< card path="blog/fourth-post" header="full" orientation="none" />}}
-    {{< card path="blog/fourth-post" header="publication" orientation="none" />}}
-    {{< card path="blog/fourth-post" header="tags" orientation="none" />}}
-    {{< card path="blog/fourth-post" header="none" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" header="full" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" header="publication" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" header="tags" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" header="none" orientation="none" />}}
 {{< /card-group >}}
 
 {{< card path="about" padding="3" class="col-6 mx-auto" color="body-tertiary" header="publication" footer="none" />}}
 
 <!-- Custom footer -->
 {{< card-group cols="4" gutter="3" >}}
-    {{< card path="blog/fourth-post" header="none" footer="full" orientation="none" />}}
-    {{< card path="blog/fourth-post" header="none" footer="publication" orientation="none" />}}
-    {{< card path="blog/fourth-post" header="none" footer="tags" orientation="none" />}}
-    {{< card path="blog/fourth-post" header="none" footer="none" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" header="none" footer="full" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" header="none" footer="publication" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" header="none" footer="tags" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" header="none" footer="none" orientation="none" />}}
 {{< /card-group >}}
 
 <!-- Image placement -->
-{{< card path="blog/fourth-post" header="none" footer="none" orientation="stacked" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
-{{< card path="blog/fourth-post" header="none" footer="none" orientation="stacked" padding="3" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
-{{< card path="blog/fourth-post" header="publication" footer="tags" orientation="horizontal" class="col-sm-12 col-lg-8 mx-auto" />}}
-{{< card path="blog/fourth-post" header="publication" footer="tags" orientation="horizontal" padding="3" class="col-sm-12 col-lg-8 mx-auto" />}}
+{{< card path="blog/fanm-fonksyone" header="none" footer="none" orientation="stacked" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
+{{< card path="blog/fanm-fonksyone" header="none" footer="none" orientation="stacked" padding="3" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
+{{< card path="blog/fanm-fonksyone" header="publication" footer="tags" orientation="horizontal" class="col-sm-12 col-lg-8 mx-auto" />}}
+{{< card path="blog/fanm-fonksyone" header="publication" footer="tags" orientation="horizontal" padding="3" class="col-sm-12 col-lg-8 mx-auto" />}}
 
 <!-- Inline content -->
 {{< card header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto mb-3" title="Title" icon="fa address-card" >}}
@@ -226,7 +226,7 @@ Heading 6 {{< badge title="New" >}} {.h6}
 {{< /card >}}
 
 <!-- Custom styling -->
-{{< card path="blog/fourth-post" header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto card-shrink" />}}
+{{< card path="blog/fanm-fonksyone" header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto card-shrink" />}}
 
 ## Card group
 
