@@ -1,15 +1,17 @@
 ---
 author: Alofonksyone
 title: Byenvini sou Alo Fonksyonè!
-description: Yon blòg ki pote enfòmasyon sou fonksyon piblik Ayiti, entegrasyon epi dwa ak devwa fonksyonè.
+description: Enfòmasyon sou fonksyon piblik Ayiti, entegrasyon epi dwa ak devwa fonksyonè.
 thumbnail:
-    url: /img/sunrise.jpg
-    author: Harris Vo
-    authorURL: https://unsplash.com/@hoanvokim
-    origin: https://unsplash.com/photos/ZX6BPboJrYk
+    url: /img/justice-law.jpg
+    author: Tingey Injury Law Firm
+    authorURL: https://www.unsplash.com/@tingeyinjurylawfirm
+    origin: https://unsplash.com/photos/DZpc4UY8ZtY
     originName: Unsplash
 actions:
   about:
     url: "about"
-    title: "About"
+    title: "Enfo sou nou"
+    icon: "fas circle-info"
 ---
+  

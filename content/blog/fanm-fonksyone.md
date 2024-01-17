@@ -2,14 +2,14 @@
 author: Alofonksyonè
 title: Fanm fonksyonè
 date: 2023-03-08
-lastmod: false
+# lastmod: false
 description: Yon nimewo spesyal pou selebre Jounen entènasyonal Fanm yo.
 tags:
   - nimewo spesyal
   - blog
   - fanm
   - fonksyon piblik
-searchExclude: true
+# searchExclude: true
 thumbnail:
   url: img/fanm-fonksyone.jpg
   author: Christina
@@ -23,10 +23,10 @@ keywords: []
 ---
 
 {{< alert type="info" >}}
-Le thème de la Journée internationale des femmes, le 8 mars 2023 (JIF 2023) est : « **Pour un monde digital inclusif : innovation et technologies pour l’égalité # des sexes** ». 
+Le thème de la Journée internationale des femmes, le 8 mars 2023 (JIF 2023) est : « **Pour un monde digital inclusif : innovation et technologies pour l’égalité des sexes** ». 
 {{< /alert >}}
 
-*Ce thème est associé au thème prioritaire de la 67e session de la{{< link cue="true" href="https://www.unwomen.org/en/csw/csw67-2023" >}}Commission de la condition de la femme (CSW-67){{< /link >}}, à savoir « L’innovation, le changement technologique et l’éducation à l’ère du numérique pour réaliser l’égalité des sexes et autonomiser toutes les femmes et les filles ».*
+*Ce thème est associé au thème prioritaire de la 67e session de la{{< link cue="true" tab=true href="https://www.unwomen.org/en/csw/csw67-2023" >}}Commission de la condition de la femme (CSW-67){{< /link >}}, à savoir « L’innovation, le changement technologique et l’éducation à l’ère du numérique pour réaliser l’égalité des sexes et autonomiser toutes les femmes et les filles ».*
 
 Nan okazyon jounen mondyal lit pou dwa fanm yo, Alo Fonksyonè vle rann omaj ak tout fonksyonè fanm san distenksyon ki mete konesans ak konpetans yo osèvis administrasyon piblik la.
 

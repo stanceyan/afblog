@@ -4,13 +4,16 @@ title: Bootstrap elements
 date: 2023-08-12
 lastmod: 2024-01-15
 description: Use.
-tags: ["bootstrap", "shortcode"]
+tags:
+  - bootstrap
+  - shortcode
 thumbnail:
   url: img/boots.jpg
   author: Nathan Dumlao
   authorURL: https://unsplash.com/@nate_dumlao
   origin: Unsplash
   originURL: https://unsplash.com/photos/QLPWQvHvmII
+draft: true
 ---
 
 Hinode provides several shortcodes that wrap common Bootstrap components. Refer to the [official documentation] for more details.
