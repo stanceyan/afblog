@@ -2,7 +2,6 @@
 author: Alofonksyonè
 title: Sesasyon / Fen karyè
 date: 2023-03-29
-lastmod: false
 description: Enfòmasyon sou rejim retrèt pou fonskyonè yo.
 tags:
   - blog

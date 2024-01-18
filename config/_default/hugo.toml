@@ -1,6 +1,6 @@
 title = 'Alofonksyone'
 copyright = "Copyright © 2024 Alo Fonksyonè Blog"
-enableGitInfo = true
+enableGitInfo = false
 
 # additional settings
 baseURL = 'https://example.org/'
@@ -12,9 +12,11 @@ enableInlineShortcodes = true
 
 timeout = "180s"
 
-languageCode = 'en-us'
-defaultContentLanguage = "en"
+languageCode = 'fr-fr'
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
+
+disableLanguages = ['es', 'en']
 
 # toml-docs-start lang-param
 [params.head]

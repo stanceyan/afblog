@@ -2,7 +2,6 @@
 author: Alofonksyonè
 title: Fanm fonksyonè
 date: 2023-03-08
-# lastmod: false
 description: Yon nimewo spesyal pou selebre Jounen entènasyonal Fanm yo.
 tags:
   - nimewo spesyal

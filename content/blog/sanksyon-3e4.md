@@ -1,9 +1,8 @@
 ---
 author: Alofonksyonè
-title: Sanksyon disiplinè / 3è ak 4è gwoup
+title: Sanksyon disiplinè
 date: 2023-03-15
-lastmod: false
-description: Gwoup sanksyon ki konsène .
+description: Gwoup sanksyon ki konsène 3zyèm ak 4ryèm gwoup.
 tags:
   - blog
   - fonksyon piblik
@@ -26,8 +25,8 @@ draft: false
 
   Se sel otorite nominasyon an ki ka deside sanksyon ki nan 4è gwoup la, sa vle di mizandisponibilite dofis ak revokasyon.
 
-  <!-- {{< /accordion-item >}}
-  {{< accordion-item header="Accordion Item #2" >}}
+  {{< /accordion-item >}}
+  <!-- {{< accordion-item header="Accordion Item #2" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
   <!-- {{< accordion-item header="Accordion Item #3" >}}
