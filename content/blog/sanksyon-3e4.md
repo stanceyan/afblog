@@ -6,7 +6,7 @@ description: Gwoup sanksyon ki konsène 3zyèm ak 4ryèm gwoup.
 tags:
   - blog
   - fonksyon piblik
-  - retrèt 
+  - sanksyon 
 thumbnail:
   url: img/sanksyon.jpg
   author: Sora Shimazaki
