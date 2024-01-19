@@ -3,7 +3,7 @@ copyright = "Copyright © 2024 Alo Fonksyonè Blog"
 enableGitInfo = false
 
 # additional settings
-baseURL = 'https://example.org/'
+baseURL = 'https://https://afblog.github.io'
 canonifyURLs = false
 # uglyURLs = true
 enableEmoji = true
