@@ -1,13 +1,13 @@
 ---
-title: About
-description: Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.
-date: 2022-04-11
+title: Kontakte nou
+description: Nou se Alo Fonksyonè.
+date: 2022-01-01
 # updated: 2023-08-02
 showComments: false
 draft: false
 ---
 
-{{< image src="/img/logo_var.svg#logo" class="img-fluid w-50" wrapper="text-center" >}}
+<!-- {{< image src="/img/logo_var.svg#logo" class="img-fluid w-50" wrapper="text-center" >}}
 
 {{< card-group class="text-center border-0" padding="3" >}}
     {{< card title="Bootstrap framework" icon="fab bootstrap" >}}
@@ -23,11 +23,4 @@ draft: false
 
 Additional features include:
 
-* Switching between light mode and dark mode
-* Support for multiple languages
-* Reusable Bootstrap components through configurable shortcodes and partials
-* Versioned documentation, including sidebar navigation and version switcher
-* Reponsive image handling for multiple screen sizes and resolutions
-* Optimized search results, scoring 100 points for SEO on [PageSpeed Insights]
-* Secure by default, scoring A+ on [Mozilla Observatory test]
-{.tickmark}
+* Switching between light mode and dark mode -->

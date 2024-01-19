@@ -24,6 +24,37 @@
     sidebar = true
     size = "md"
 
+[sections]
+    [sections.blog]
+        title = "Blog"
+        sort = "date"
+        reverse = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom card-body-margin"
+        homepage = 3
+        separator = true
+    [sections.projects]
+        title = "Projects"
+        layout = "card"
+        sort = "title"
+        reverse = false
+        nested = true
+        cols = 1
+        background = "body-tertiary"
+        color = "body"
+        padding = "3"
+        header = "none"
+        footer = "tags"
+        orientation = "horizontal-sm"
+        style = "border-1 card-emphasize"
+        homepage = 3
+        separator = false
+
 [favicon]
     logo = "img/favicon.png"
     sizes = [16, 32, 48]
