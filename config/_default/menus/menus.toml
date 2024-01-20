@@ -29,7 +29,7 @@
 
 [[main]]
   name = "Tags"
-  pageRef = "/tags/"
+  pageRef = "./tags/"
   weight = 40
 
 [[main]]
@@ -54,7 +54,7 @@
 
 [[social]]
   name = "Twitter"
-  pre = "fab twitter"
+  pre = "fab x-twitter"
   url = "https://twitter.com/@alofonksyone"
   weight = 20
 
@@ -67,23 +67,23 @@
 # toml-docs-start sample-navigation
 [[sample]]
   name = "Blog"
-  pageRef = "/blog/"
+  pageRef = "./blog/"
   weight = 10
 
 [[sample]]
   name = "Projects"
-  pageRef = "/projects/"
+  pageRef = "./projects/"
   weight = 20
 
 [[sample]]
   name = "Sample project"
-  pageRef = "/projects/sample-project/"
+  pageRef = "./projects/sample-project/"
   parent = "Projects"
   weight = 1
 
 [[sample]]
   name = "Another project"
-  pageRef = "/projects/another-project/"
+  pageRef = "./projects/another-project/"
   parent = "Projects"
   weight = 2
 # toml-docs-end sample-navigation
