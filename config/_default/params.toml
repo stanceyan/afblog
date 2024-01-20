@@ -12,7 +12,7 @@
 
 [navigation]
     anchor = true
-    logo = "/img/alof.svg"
+    logo = "./img/alof.svg"
     color = "body"
     fixed = true
     horizontal = false
@@ -56,5 +56,5 @@
         separator = false
 
 [favicon]
-    logo = "img/favicon.png"
+    logo = "./img/favicon.png"
     sizes = [16, 32, 48]
