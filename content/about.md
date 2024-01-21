@@ -5,9 +5,11 @@ date: 2022-01-01
 # updated: 2023-08-02
 showComments: false
 draft: false
-header: "none"
 ---
 
-**{{< fas envelope >}} infos@alofonksyone.net**
+{{< fas envelope >}} infos@alofonksyone.net
 
-**{{< fas phone >}} +509 28 16 0000**
+{{< fas phone >}} +509 28 16 0000
+
+**{{< link cue="true" tab=true href="https://sites.google.com/view/alofonksyone/à-propos" >}}Pou plis enfo sou misyon nou{{< /link >}}**
+
