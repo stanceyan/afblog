@@ -2,9 +2,9 @@
 author: Alofonksyonè
 title: Fèt fonksyonè yo
 date: 2023-06-23
-description: Yon nimewo spesyal pou selebre Jounen entènasyonal Fonksyonè yo.
+description: Yon nimewo espesyal pou selebre Jounen entènasyonal Fonksyonè yo.
 tags:
-  - nimewo spesyal
+  - nimewo espesyal
   - blog
   - fonksyon piblik
 searchExclude: true
@@ -16,7 +16,7 @@ thumbnail:
   originURL: https://unsplash.com/photos/b806jDKFAAo
 draft: false
 categories:
-  - Nimewo spesyal
+  - Nimewo espesyal
 keywords: []
 ---
   

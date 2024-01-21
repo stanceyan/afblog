@@ -12,7 +12,7 @@
 
 [navigation]
     anchor = true
-    logo = "./img/alof.svg"
+    logo = false
     color = "body"
     fixed = true
     horizontal = false

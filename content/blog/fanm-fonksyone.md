@@ -2,9 +2,9 @@
 author: Alofonksyonè
 title: Fanm fonksyonè
 date: 2023-03-08
-description: Yon nimewo spesyal pou selebre Jounen entènasyonal Fanm yo.
+description: Yon nimewo espesyal pou selebre Jounen entènasyonal Fanm yo.
 tags:
-  - nimewo spesyal
+  - nimewo espesyal
   - blog
   - fanm
   - fonksyon piblik
@@ -17,7 +17,7 @@ thumbnail:
   originURL: https://unsplash.com/photos/ioGkluYGy38
 draft: false
 categories:
-  - Nimewo spesyal
+  - Nimewo espesyal
 keywords: []
 ---
 

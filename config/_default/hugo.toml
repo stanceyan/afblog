@@ -1,9 +1,9 @@
-title = 'Alofonksyone'
-copyright = "Copyright © 2024 Alofonksyonè"
+title = ''
+copyright = "© 2024 Alofonksyonè"
 enableGitInfo = false
 
 # additional settings
-baseURL = 'https://https://afblog.github.io'
+baseURL = 'https://alofonksyone.github.io'
 canonifyURLs = false
 # uglyURLs = true
 enableEmoji = true
@@ -20,7 +20,7 @@ disableLanguages = ['es', 'en']
 
 # toml-docs-start lang-param
 [params.head]
-tagline = "Blog sou fonksyon piblik Ayiti"
+# tagline = "Blog sou fonksyon piblik Ayiti"
 [params.social]
 title = "Swiv nou"
 caption = "Nou pibliye sou paj rezo sosyo sa yo tou"
@@ -28,9 +28,9 @@ caption = "Nou pibliye sou paj rezo sosyo sa yo tou"
 # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
 # toml-docs-end lang-param
 [params.sections.blog]
-reference = "More Posts"
+reference = "Plus d'articles"
 [params.sections.projects]
-reference = "More Projects"
+reference = "Plus de projets"
 
 
 [outputs]
@@ -41,6 +41,14 @@ home = ["HTML", "RSS", "REDIR"]
   
 [taxonomies]
   tag = 'tags'
+
+[minify]
+  [minify.tdewolff.js]
+    keepVarNames = true
+    precision = 0
+    version = 2022
+  [minify.tdewolff.html]
+    keepWhitespace = true
 
 [module]
   [[module.mounts]]
