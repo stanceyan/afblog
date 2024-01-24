@@ -1,3 +1,21 @@
+# toml-docs-start main
+[main]
+    separator = "-"
+    description = ""
+    enableDarkMode = true
+    modes = ["light", "dark"]
+    canonifyAssetsURLs = false
+    endorse = false
+    footerBelowFold = false
+    loading = "lazy"
+    breakpoint = "md"
+    [main.externalLinks]
+        cue = false
+        tab = false
+    [main.build]
+        transpiler = "libsass"
+# toml-docs-end main
+
 [home]
     # sections = ["blog", "projects"]
     sections = ["blog"]
@@ -58,3 +76,27 @@
 [favicon]
     logo = "./img/favicon.png"
     sizes = [16, 32, 48]
+
+# toml-docs-start theme-colors
+[style]
+    primary = "#d43900"
+    secondary = "#6c757d"
+    success = "#198754"
+    info = "#0dcaf0"
+    warning = "#ffc107"
+    danger = "#dc3545"
+    light = "#f8f9fa"
+    dark = "#212529"
+# toml-docs-end theme-colors
+    themeOpacity = "10"
+    darkModeShade = "20%"
+    darkModeTint = "40%"
+# toml-docs-start font
+    themeFont = "Inter"
+    # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
+    themeFontPath = "/fonts" # local path
+    fontSizeBase = "1rem" # assumes the browser default, typically '16px'
+# toml-docs-end font
+# toml-docs-start build
+    purge = false
+# toml-docs-end build
