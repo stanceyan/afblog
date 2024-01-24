@@ -1,6 +1,6 @@
 ---
 author: Alofonksyonè
-title: Sanksyon disiplinè
+title: Sanksyon disiplinè (premye pati)
 date: 2023-02-15
 description: Gwoup sanksyon ki konsène premye gwoup.
 tags:

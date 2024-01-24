@@ -9,10 +9,10 @@ tags:
   - fonksyon piblik
 thumbnail:
   url: img/rekritman.jpg
-  author: Tima Miroshnichenko
-  authorURL: https://pexels.com/@tima-miroshnichenko
-  origin: Pexels
-  originURL: https://www.pexels.com/photo/5439368
+  author: Monster Ztudio
+  authorURL: https://stock.adobe.com/sg/contributor/206503583/monster-ztudio 
+  origin: Adobe Stock
+  originURL: https://stock.adobe.com/sg/432980673
 draft: false
 ---
 

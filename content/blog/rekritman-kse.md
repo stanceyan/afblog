@@ -1,6 +1,6 @@
 ---
 author: Alofonksyonè
-title: Rekritman
+title: Rekritman (premye pati)
 date: 
 description: Fason moun gen aksè a fonksyon piblik la se konkou sou eprèv.
 tags:

@@ -1,6 +1,6 @@
 ---
 author: Alofonksyonè
-title: Rekritman
+title: Rekritman (dezyèm pati)
 date: 
 description: Lòt fason moun gen aksè a fonksyon piblik la se konkou sou tit.
 tags:
@@ -8,7 +8,7 @@ tags:
   - rekritman
   - fonksyon piblik
 thumbnail:
-  url: img/rekritman.jpg
+  url: img/rekritman-kst.jpg
   author: Tima Miroshnichenko
   authorURL: https://pexels.com/@tima-miroshnichenko
   origin: Pexels

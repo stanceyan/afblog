@@ -1,6 +1,6 @@
 ---
 author: Alofonksyonè
-title: Sanksyon disiplinè
+title: Sanksyon disiplinè (dezyèm pati)
 date: 2023-03-01
 description: Gwoup sanksyon ki konsène 2zyèm gwoup.
 tags:

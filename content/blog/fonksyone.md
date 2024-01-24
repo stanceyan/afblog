@@ -10,10 +10,10 @@ tags:
 searchExclude: true
 thumbnail:
   url: img/fonksyone.jpg
-  author: Behnam Norouzi
-  authorURL: https://unsplash.com/@behy_studio
-  origin: Unsplash
-  originURL: https://unsplash.com/photos/b806jDKFAAo
+  author: Porcupen
+  authorURL: https://stock.adobe.com/sg/contributor/205654250/porcupen
+  origin: Adobe Stock
+  originURL: https://stock.adobe.com/sg/235462517
 draft: false
 categories:
   - Nimewo espesyal
