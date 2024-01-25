@@ -20,7 +20,7 @@ disableLanguages = ['es', 'en']
 
 # toml-docs-start lang-param
 [params.head]
-# tagline = "Blog sou fonksyon piblik Ayiti"
+tagline = "Blog sou fonksyon piblik Ayiti"
 [params.social]
 title = "Swiv nou"
 caption = "Nou pibliye sou paj rezo sosyo sa yo tou"

@@ -1,6 +1,6 @@
 # toml-docs-start main
 [main]
-    separator = "-"
+    separator = ""
     description = ""
     enableDarkMode = true
     modes = ["light", "dark"]
