@@ -30,7 +30,7 @@
 
 [navigation]
     anchor = true
-    logo = false
+    logo = "./img/logo-hh.svg"
     color = "body"
     fixed = true
     horizontal = false
@@ -54,7 +54,7 @@
         footer = "none"
         orientation = "stacked"
         style = "border-0 card-zoom card-body-margin"
-        homepage = 3
+        homepage = 6
         separator = true
     [sections.projects]
         title = "Projects"
