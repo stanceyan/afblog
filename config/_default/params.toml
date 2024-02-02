@@ -30,7 +30,7 @@
 
 [navigation]
     anchor = true
-    logo = "./img/logo-hh.svg"
+    logo = "/img/logo_icon.svg"
     color = "body"
     fixed = true
     horizontal = false
