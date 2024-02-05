@@ -3,9 +3,9 @@ copyright = "© 2024 Alofonksyonè"
 enableGitInfo = false
 
 # additional settings
-baseURL = 'https://alofonksyone.github.io'
+baseURL = 'https://stanceyan.github.io/afblog/'
 canonifyURLs = false
-# uglyURLs = true
+uglyURLs = true
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true

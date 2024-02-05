@@ -30,7 +30,7 @@
 
 [navigation]
     anchor = true
-    logo = "./img/logo_icon.SVG"
+    logo = "https://raw.githubusercontent.com/stanceyan/afblog/main/static/img/logo_icon.svg"
     color = "body"
     fixed = true
     horizontal = false
@@ -74,7 +74,7 @@
         separator = false
 
 [favicon]
-    logo = "./img/favicon.png"
+    logo = "/img/favicon.png"
     sizes = [16, 32, 48]
 
 # toml-docs-start theme-colors
