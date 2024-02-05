@@ -5,7 +5,7 @@ enableGitInfo = false
 # additional settings
 baseURL = 'https://stanceyan.github.io/afblog/'
 canonifyURLs = false
-uglyURLs = true
+uglyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
