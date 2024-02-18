@@ -8,17 +8,13 @@ tags:
   - blog
   - fanm
   - fonksyon piblik
-# searchExclude: true
+searchExclude: true
 thumbnail:
   url: img/fanm-fonksyone.jpg
   author: Christina
   authorURL: https://unsplash.com/@wocintechchat
   origin: Unsplash
   originURL: https://unsplash.com/photos/ioGkluYGy38
-draft: false
-categories:
-  - Nimewo espesyal
-keywords: []
 ---
 
 {{< alert type="info" >}}

@@ -14,10 +14,6 @@ thumbnail:
   authorURL: https://stock.adobe.com/sg/contributor/205654250/porcupen
   origin: Adobe Stock
   originURL: https://stock.adobe.com/sg/235462517
-draft: false
-categories:
-  - Nimewo espesyal
-keywords: []
 ---
   
 {{< alert type="info" >}}

@@ -1,28 +1,23 @@
 ---
 author: Alofonksyonè
-title: Sesasyon (Lisansiman)
-date: 2023-05-04
-description: Lòt fason pou yon moun pa travay ankò nan Leta.
+title: Evalyasyon
+date: 2023-06-21
+description: Sistèm ki tabli pou apresye travay fonksyonè yo.
 tags:
   - blog
   - fonksyon piblik
-  - rekou 
+  - evalyasyon 
 thumbnail:
-  url: img/rekou.jpg
-  author: Katrin Bolovtsova
-  authorURL: https://www.pexels.com/@ekaterina-bolovtsova
-  origin: Pexels
-  originURL: https://www.pexels.com/photo/6077447
-draft: true
+  url: img/evalyasyon.jpg
+  author: Monster Ztudio
+  authorURL: https://stock.adobe.com/sg/contributor/206503583/monster-ztudio
+  origin: Adobe Stock
+  originURL: https://stock.adobe.com/sg/352999075
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 198 dekrè sou fonksyon piblik la" show="true" >}}
-  Yon lòt fason yo mete fen nan karyè yon fonksyonè se lè li lisansye. Gen 3 rezon pou lisansye yon fonksyonè:
-  
-  - ensifizans pwofesyonèl,
-  - sipresyon anplwa ak
-  - pèt nasyonalite fonksyonè a.
+  {{< accordion-item header="Atik 66, 67, 68 dekrè sou fonksyon piblik la" show="true" >}}
+  Gen yon sistèm evalyasyon ki tabli nan fonksyon piblik la pou pèmèt yo sitiye fonksyonè yo parapò ak aptitid yo, konpetans yo ak pèfòmans yo. Rezilta evalyasyon sa ki fèt yon fwa chak ane sèvi kòm baz pou avansman fonksyonè yo, defini bezwen yo nan domèn fòmasyon, reklasman yo ou lisansiman yo. Gen yon tablo avansman ki drese an fonksyon merit fonksyonè yo.
   {{< /accordion-item >}}
   <!-- {{< accordion-item header="Accordion Item #3" >}}
     This is the third item's accordion body.
