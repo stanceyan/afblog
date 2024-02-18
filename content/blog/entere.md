@@ -1,19 +1,19 @@
 ---
 author: Alofonksyonè
-title: Fk
+title: Kolizyon
 date: 2023-01-18
-description: .
+description: Pwovizyon pou evite kolizyon ant enterè pèsonel fonksyonè a ak enterè administrasyon an. 
 # tags:
 #   - blog
 #   - fonksyon piblik
 #   - rekou 
-# thumbnail:
-#   url: img/rekou.jpg
-#   author: Katrin Bolovtsova
-#   authorURL: https://www.pexels.com/@ekaterina-bolovtsova
-#   origin: Pexels
-#   originURL: https://www.pexels.com/photo/6077447
-draft: true
+thumbnail:
+  url: img/entere.jpg
+  author: freshidea
+  authorURL: https://stock.adobe.com/sg/contributor/201597178/freshidea
+  origin: Adobe Stock
+  originURL: https://stock.adobe.com/sg/104079274
+draft: false
 ---
 
 {{< accordion >}}
@@ -25,4 +25,8 @@ draft: true
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-.
+Nan sousi pou garanti prensip enpasyalite ak endepandans fonksyonè a nan kad travay li parapò ak izaje yo. Lalwa prevwa evite kolizyon ant enterè pèsonèl fonksyonè a ak enterè administrasyon an ki se garanti sèvis kalite e aksesib nan enterè jeneral la.
+
+Youn nan fason kontwòl sa fèt se nan evite fonksyonè yo devlope lòt enterè parapò ak sèvis yap ofri yo, ni pou yo pa ofri avantaj espesyal a moun ki pwòch yo. Atik sa prevwa pou fonksyonè deklare pa ekri si konjwen li ap mennen yon aktivite likrativ, komès biznis ou aktivite liberal, yon fason pou evite tout kolizyon enterè privé ak enterè administrasyon. 
+
+Deklarasyon ekri sa dwe achemine nan OMRH, epi administrasyon an dwe pran mezi pou administrasyon an pa viktim. Alo fonksyonè!

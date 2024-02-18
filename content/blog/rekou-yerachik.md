@@ -2,18 +2,17 @@
 author: Alofonksyonè
 title: Rekou yerachik
 date: 2023-05-31
-description: Lòt fason pou yon moun pa travay ankò nan Leta.
+description: Lòt fason pou fonksyonè konteste yon desizyon.
 tags:
   - blog
   - fonksyon piblik
   - rekou 
 thumbnail:
-  url: img/rekou.jpg
-  author: Katrin Bolovtsova
-  authorURL: https://www.pexels.com/@ekaterina-bolovtsova
-  origin: Pexels
-  originURL: https://www.pexels.com/photo/6077447
-draft: true
+  url: img/rekou-yerachik.jpg
+  author: Trueffelpix
+  authorURL: https://stock.adobe.com/sg/contributor/200501608/trueffelpix
+  origin: Adobe Stock
+  originURL: https://stock.adobe.com/sg/77159802
 ---
 
 {{< accordion >}}
@@ -25,4 +24,4 @@ draft: true
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-Depi rekou grasye fonksyonè a pa abouti, sa vle di Otorite ki adopte desizyon an pa dakò tounen sou li, nan ka sa fonksyonè a gendwa egzèse yon rekou yerachik devan moun ki se chèf otorite ki te adpte desizyon an.
+Depi rekou grasye fonksyonè a pa abouti, sa vle di Otorite ki adopte desizyon an pa dakò tounen sou li, nan ka sa fonksyonè a gendwa egzèse yon rekou yerachik devan moun ki se chèf otorite ki te adpte desizyon an nan sousi pou fè anile desizyon ki leze dwa l ak enterè l la.

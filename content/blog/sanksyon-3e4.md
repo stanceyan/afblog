@@ -1,8 +1,8 @@
 ---
 author: Alofonksyonè
-title: Sanksyon disiplinè (twazyèm pati)
+title: Sanksyon disiplinè (3zyèm gwoup +)
 date: 2023-03-15
-description: Gwoup sanksyon ki konsène 3zyèm ak 4ryèm gwoup.
+description: Sanksyon ki konsène bese echelon, sispansyon ak retrograde
 tags:
   - blog
   - fonksyon piblik

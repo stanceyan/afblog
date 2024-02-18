@@ -1,8 +1,8 @@
 ---
 author: Alofonksyonè
 title: Rekou
-date: 2023-05-24
-description: Enfòmasyon sou posibilite ki ofri a chak fonksyonè pou konteste yon desizyon.
+date: 2023-03-22
+description: Plizyè kalte rekou kont desizyon administrativ.
 tags:
   - blog
   - fonksyon piblik
@@ -13,30 +13,31 @@ thumbnail:
   authorURL: https://www.pexels.com/@ekaterina-bolovtsova
   origin: Pexels
   originURL: https://www.pexels.com/photo/6077447
-draft: true
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 202 dekrè sou fonksyon piblik la" show="true" >}}
-  Fonksyonè yo gen dwa a 3 kalte rekou kont desizyon administrativ ki pran kont yo.
-  
-  Premye a se rekou grasye.
+  {{< accordion-item header="Atik 201-206 dekrè sou fonksyon piblik la" show="true" >}}
+  Si li estime desizyon an ilegal ou abitrè, yon fonksyonè ka entante :
 
-  Nan ka sa fonksyonè a al konteste desizyon an devan otorite ki adopte l la. Gen yon lòt rekou grasye li ka fè devan Konsèy siperyè administrasyon ak fonksyon piblik la (CSAFP).
+  - Yon rekou grasye, ki konteste desizyon an devan otorite ki adopte l la menm
+  - Yon rekou yerachik, devan siperyè yerachik otorite ki pran desizyon an
+  - yon rekou kontansye devan Lakoudèkont
+
+  Objektif la se fè anile desizyon an.
   {{< /accordion-item >}}
   <!-- {{< accordion-item header="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-Dekrè sou fonksyon piblik la pèmèt yon fonksyonè konteste yon desizyon administratif nan plizyè fason. Objektif la se fè anile desizyon an. 
+Desizyon administrativ yo pa irevokab, yo ka fè rekou kont yo. 
 
-Youn nan 3 rekou sa yo se rekou grasye.
-
-Fonksyonè a adrese I a otorite ki pran desizyon an kont li e li mande I retounen sou li ak motif ki pwouve I pat fonde. Si otorite a fè retrè desizyon an, se tankou I pat janm egziste. Nan ka kontrè, fonksyonè a ka fè yon rekou yerachik, nap gen pou n pale de li nan #74 ribrib la. Nou dwe sonje gen yon dènye rekou grasye ke fonksyonè a ka fè devan Konsèy siperyè administrasyon ak fonksyon piblik la (CSAFP) ki se ògan jesyon fonksyon piblik la. Se Premye minis la ki prezide CSAFP la e se OMRH ki jwe wòl sekretarya pou li. Kidonk, fonksyonè konsène a dwe adrese yon korespondans bay OMRH pou I pote rekou grasye I la devan CSAFP.
+Lalwa esplike diferan tip rekou yo e se sa nimewo sa trete. Anplis rekou grasye devan otorite ki pran desizyon an, gen yon ògan siperyè ki la pou tranche sou rekou grasye nan fonksyon piblik la apre fonksyonè a fin fè l si l pa mache. Ògan sa se Konsèy siperyè administrasyon ak fonksyon piblik la (CSAFP). 
 
 {{< alert color="danger" icon="fas triangle-exclamation" >}}
   **Examen de l'OCDE sur la gouvernance publique : Haïti : Renforcer l'administration pour une gouvernance publique résiliente et durable**
     
   Certaines structures transversales de coordination existent sur le papier, mais ne se réunissent pas ou très peu, comme le Conseil Supérieur de l’Administration et de la Fonction Publique (CSAFP), Forum des directeurs généraux, le Forum des directeurs des ressources humaines et des Directeurs Administratifs et Financiers.
 {{< /alert >}}
+
+Nap sonje sa, yon fonksyonè ki pa vle fè rekou grasye oubyen rekou yerachik ka annik sezi Lakoudèkont (CSCCA) ak yon rekou kontansye e kòm se yon ògan jiridiksyonèl,li gen konpetans pou l tranche sou desizyon an. Fonksyonè a gen yon entèval 90 jou delè apati desizyon an pou l sezi Lakoudèkont, si delè a pase rekou a pap resevab ankò. 

@@ -1,8 +1,8 @@
 ---
 author: Alofonksyonè
-title: Sanksyon disiplinè (dezyèm pati)
+title: Sanksyon disiplinè (dezyèm gwoup)
 date: 2023-03-01
-description: Gwoup sanksyon ki konsène 2zyèm gwoup.
+description: Sanksyon ki konsène kenbe salè ak sispansyon.
 tags:
   - blog
   - fonksyon piblik
@@ -31,3 +31,8 @@ draft: false
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
+Dezyèm gwoup sanksyon disiplinè a rezève a Direktè jeneral la, men se aprè l fin resevwa avi responsab resous zimèn lan. 
+
+Sanksyon li ka pran kont fonksyonè a se kenbe senk trantyèm nan salè l epi sispann li pou yon semèn. 
+
+Nou bezwen toujou sonje ke sanksyon disiplinè a dwe pwopòsyonèl, sa vle di ekilibre parapò ak fot la. E tout eleman prèv ki ka etabli materyalite fot la dwe la.

@@ -7,9 +7,9 @@ showComments: false
 draft: false
 ---
 
-{{< fas envelope >}} infos@alofonksyone.net
+{{< fas envelope >}} hakinshenry@hotmail.fr
 
-{{< fas phone >}} +509 28 16 0000
+{{< fas phone >}} +509 37 59 0523
 
 **{{< link cue="true" tab=true href="https://sites.google.com/view/alofonksyone/à-propos" >}}Pou plis enfo sou misyon nou{{< /link >}}**
 

@@ -1,19 +1,19 @@
 ---
 author: Alofonksyonè
-title: Fk
+title: Obligasyon fonksyonè yo (dezyèm pati)
 date: 2023-01-12
-description: .
-# tags:
-#   - blog
-#   - fonksyon piblik
-#   - rekou 
-# thumbnail:
-#   url: img/rekou.jpg
-#   author: Katrin Bolovtsova
-#   authorURL: https://www.pexels.com/@ekaterina-bolovtsova
-#   origin: Pexels
-#   originURL: https://www.pexels.com/photo/6077447
-draft: true
+description: 2 obligasyon ki mande fonksyonè yo kanpe ak afè moun pa.
+tags:
+   - blog
+   - fonksyon piblik
+   - obligasyon
+thumbnail:
+  url: img/netralite.jpg
+  author: Ilham
+  authorURL: https://stock.adobe.com/sg/contributor/211080548/Ilham
+  origin: Adobe Stock
+  originURL: https://stock.adobe.com/sg/623948986
+draft: false
 ---
 
 {{< accordion >}}
@@ -25,4 +25,4 @@ draft: true
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-.
+Enpasyalite ak netralite se 2 kalite ki endispansab pour tout fonksyonè. Kalite sa yo pèmèt fonksyonè yo trete tout moun ak respè. Nan sousi pou rann sèvis piblik yo aksesib, fonksyonè yo dwe ofri sèvis sans patipri e san enterè.
