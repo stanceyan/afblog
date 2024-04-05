@@ -4,9 +4,7 @@ title: Kolizyon
 date: 2023-01-18
 description: Pwovizyon pou evite kolizyon ant enterè pèsonel fonksyonè a ak enterè administrasyon an. 
 # tags:
-#   - blog
 #   - fonksyon piblik
-#   - rekou 
 thumbnail:
   url: img/entere.jpg
   author: freshidea

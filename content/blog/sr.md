@@ -25,4 +25,16 @@ draft: true
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-.
+
+
+  authorURL: https://www.pexels.com/@ekaterina-bolovtsova
+  origin: Pexels
+  originURL: https://www.pexels.com/photo/6077447
+
+  authorURL: https://stock.adobe.com/sg/contributor/206503583/monster-ztudio
+  origin: Adobe Stock
+  originURL: https://stock.adobe.com/sg/352999075
+
+  authorURL: https://unsplash.com/@cytonn_photography
+  origin: Unsplash
+  originURL: https://unsplash.com/photos/GJao3ZTX9gU

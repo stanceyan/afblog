@@ -4,9 +4,8 @@ title: Sanksyon disiplinè (dezyèm gwoup)
 date: 2023-03-01
 description: Sanksyon ki konsène kenbe salè ak sispansyon.
 tags:
-  - blog
-  - fonksyon piblik
-  - sanksyon 
+  - sanksyon
+  - fonksyon piblik 
 thumbnail:
   url: img/sanksyon.jpg
   author: Sora Shimazaki

@@ -1,12 +1,11 @@
 ---
 author: Alofonksyonè
-title: Evalyasyon (Pwosesis)
+title: Pwosesis evalyasyon
 date: 2023-07-05
 description: Pwosesis evalyasyon pou apresye travay fonksyonè yo.
 tags:
-  - blog
-  - fonksyon piblik
-  - evalyasyon 
+  - evalyasyon
+  - fonksyon piblik 
 thumbnail:
   url: img/evalyasyon-pwosesis.jpg
   author: Cagkan

@@ -4,9 +4,8 @@ title: Evalyasyon (Ekspesyon)
 date: 2023-07-26
 description: Gwoup fonksyonè ki pa konsène ak evalyasyon.
 tags:
-  - blog
-  - fonksyon piblik
-  - evalyasyon 
+  - evalyasyon
+  - fonksyon piblik 
 thumbnail:
   url: img/evalyasyon.jpg
   author: Monster Ztudio

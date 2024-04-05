@@ -1,12 +1,11 @@
 ---
 author: Alofonksyonè
-title: Evalyasyon (Rezilta)
+title: Rezilta evalyasyon 
 date: 2023-07-12
 description: Sa ki fèt ak bilan rezilta ki apresye travay fonksyonè yo.
 tags:
-  - blog
+  - evalyasyon
   - fonksyon piblik
-  - evalyasyon 
 thumbnail:
   url: img/evalyasyon-rezilta.jpg
   author: LAONG

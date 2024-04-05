@@ -1,10 +1,9 @@
 ---
 author: Alofonksyonè
-title: Rekritman (premye pati)
-date: 
+title: Konkou (premye pati)
+date: 2023-11-01
 description: Fason moun gen aksè a fonksyon piblik la se konkou sou eprèv.
 tags:
-  - blog
   - rekritman
   - fonksyon piblik
 thumbnail:
@@ -13,7 +12,6 @@ thumbnail:
   authorURL: https://pexels.com/@andy-barbour
   origin: Pexels
   originURL: https://www.pexels.com/photo/6684047
-draft: false
 ---
 
 {{< accordion >}}

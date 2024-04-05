@@ -4,9 +4,8 @@ title: Sanksyon disiplinè (3zyèm gwoup +)
 date: 2023-03-15
 description: Sanksyon ki konsène bese echelon, sispansyon ak retrograde
 tags:
-  - blog
-  - fonksyon piblik
-  - sanksyon 
+  - sanksyon
+  - fonksyon piblik 
 thumbnail:
   url: img/sanksyon.jpg
   author: Sora Shimazaki

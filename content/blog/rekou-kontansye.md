@@ -4,9 +4,8 @@ title: Rekou kontansye
 date: 2023-06-14
 description: Lòt fason pou fonksyonè konteste yon desizyon.
 tags:
-  - blog
-  - fonksyon piblik
-  - rekou 
+  - rekou
+  - fonksyon piblik 
 thumbnail:
   url: img/rekou-kontansye.jpeg
   author: Chandan Khanna

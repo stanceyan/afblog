@@ -1,19 +1,17 @@
 ---
 author: Alofonksyonè
-title: Fk
+title: Konje yo (lis)
 date: 2022-08-10
-description: .
-# tags:
-#   - blog
-#   - fonksyon piblik
-#   - rekou 
-# thumbnail:
-#   url: img/rekou.jpg
-#   author: Katrin Bolovtsova
-#   authorURL: https://www.pexels.com/@ekaterina-bolovtsova
-#   origin: Pexels
-#   originURL: https://www.pexels.com/photo/6077447
-draft: true
+description: Divès kalite konje
+tags:
+  - konje
+  - fonksyon piblik 
+thumbnail:
+  url: img/konje.jpg
+  author: Roberto Nickson
+  authorURL: https://unsplash.com/@rpnickson
+  origin: Unsplash
+  originURL: https://unsplash.com/photos/v41a6J4Zrs4
 ---
 
 {{< accordion >}}
@@ -32,4 +30,4 @@ draft: true
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-.
+Men a sa fonksyonè ki an aktivite a gen dwa, divès kalite konje yo.

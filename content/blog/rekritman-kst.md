@@ -1,10 +1,9 @@
 ---
 author: Alofonksyonè
-title: Rekritman (dezyèm pati)
-date: 
+title: Konkou (dezyèm pati)
+date: 2023-10-25
 description: Lòt fason moun gen aksè a fonksyon piblik la se konkou sou tit.
 tags:
-  - blog
   - rekritman
   - fonksyon piblik
 thumbnail:
@@ -13,7 +12,6 @@ thumbnail:
   authorURL: https://pexels.com/@tima-miroshnichenko
   origin: Pexels
   originURL: https://www.pexels.com/photo/5439368
-draft: false
 ---
 
 {{< accordion >}}

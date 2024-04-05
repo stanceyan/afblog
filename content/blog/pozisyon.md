@@ -1,35 +1,32 @@
 ---
 author: Alofonksyonè
-title: Fk
+title: Pozisyon (lis)
 date: 2022-08-03
-description: .
-# tags:
-#   - blog
-#   - fonksyon piblik
-#   - rekou 
-# thumbnail:
-#   url: img/rekou.jpg
-#   author: Katrin Bolovtsova
-#   authorURL: https://www.pexels.com/@ekaterina-bolovtsova
-#   origin: Pexels
-#   originURL: https://www.pexels.com/photo/6077447
-draft: true
+description: Divès kalite pozisyon yon fonksyonè ka twouvel nan karyè li
+tags:
+  - pozisyon
+  - fonksyon piblik
+thumbnail:
+  url: img/pozisyon.jpg
+  author: Markus Spiske
+  authorURL: https://www.pexels.com/@markusspiske
+  origin: Pexels
+  originURL: https://www.pexels.com/photo/1679618
 ---
 
 {{< accordion >}}
   {{< accordion-item header="Atik 101, 102 dekrè sou fonksyon piblik la" show="true" >}}
-  Pozisyon yon fonksyone deziye nan ki sitiyasyon l twouve l parapo ak karyel.
+  Pozisyon yon fonksyonè deziye nan ki sitiyasyon l twouve l parapò ak karyèl.
 
   Li ka :
   - An aktivite
   - An detachman
   - An disponibilite
-  - òkad
-  - An konje manch long (longue durée)
+  - Ò kad
+  - An konje manch long
   {{< /accordion-item >}}
   <!-- {{< accordion-item header="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-.

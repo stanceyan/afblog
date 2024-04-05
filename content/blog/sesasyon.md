@@ -4,9 +4,8 @@ title: Sesasyon / Fen karyè
 date: 2023-03-29
 description: Enfòmasyon sou rejim retrèt pou fonskyonè yo.
 tags:
-  - blog
+  - retrèt
   - fonksyon piblik
-  - retrèt 
 thumbnail:
   url: img/sesasyon.jpg
   author: Kampus Production

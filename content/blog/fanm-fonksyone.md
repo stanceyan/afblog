@@ -5,9 +5,7 @@ date: 2023-03-08
 description: Yon nimewo espesyal pou selebre Jounen entènasyonal Fanm yo.
 tags:
   - nimewo espesyal
-  - blog
   - fanm
-  - fonksyon piblik
 searchExclude: true
 thumbnail:
   url: img/fanm-fonksyone.jpg

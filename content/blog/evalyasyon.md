@@ -4,9 +4,8 @@ title: Evalyasyon
 date: 2023-06-21
 description: Sistèm ki tabli pou apresye travay fonksyonè yo.
 tags:
-  - blog
+  - evalyasyon
   - fonksyon piblik
-  - evalyasyon 
 thumbnail:
   url: img/evalyasyon.jpg
   author: Monster Ztudio

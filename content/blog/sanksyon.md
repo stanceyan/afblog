@@ -4,9 +4,8 @@ title: Sanksyon disiplinè
 date: 2023-02-08
 description: Sanksyon pou mankman a obligasyon yon fonksyonè.
 tags:
-  - blog
-  - fonksyon piblik
-  - sanksyon 
+  - sanksyon
+  - fonksyon piblik 
 thumbnail:
   url: img/sanksyon.jpg
   author: Sora Shimazaki

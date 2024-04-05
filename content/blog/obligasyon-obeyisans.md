@@ -4,9 +4,8 @@ title: Obeyisans yerachik
 date: 2023-02-02
 description: Youn nan prensib ki pwoteje fonksyonè nan kad travay li.
 tags:
-  - blog
-  - fonksyon piblik
-  - obligasyon 
+  - obligasyon
+  - fonksyon piblik 
 thumbnail:
   url: img/obeyisans.jpg
   author: Cagkan

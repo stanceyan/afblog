@@ -4,9 +4,8 @@ title: Obligasyon fonksyonè yo (premye pati)
 date: 2023-01-04
 description: 2 obligasyon pou fonksyonè ki gen lestomak glise yo 
 tags:
-  - blog
-  - fonksyon piblik
-  - obligasyon 
+  - obligasyon
+  - fonksyon piblik 
 thumbnail:
   url: img/sekre.jpg
   author: Andranik123

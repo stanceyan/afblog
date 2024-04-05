@@ -4,9 +4,8 @@ title: Rekou grasye
 date: 2023-05-24
 description: Enfòmasyon pou fonksyonè konteste yon desizyon.
 tags:
-  - blog
-  - fonksyon piblik
-  - rekou 
+  - rekou
+  - fonksyon piblik 
 thumbnail:
   url: img/rekou-grasye.jpg
   author: Deagreez

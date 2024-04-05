@@ -4,16 +4,14 @@ title: Obligasyon fonksyonè yo (dezyèm pati)
 date: 2023-01-12
 description: 2 obligasyon ki mande fonksyonè yo kanpe ak afè moun pa.
 tags:
-   - blog
-   - fonksyon piblik
    - obligasyon
+   - fonksyon piblik
 thumbnail:
   url: img/netralite.jpg
-  author: Ilham
-  authorURL: https://stock.adobe.com/sg/contributor/211080548/Ilham
-  origin: Adobe Stock
-  originURL: https://stock.adobe.com/sg/623948986
-draft: false
+  author: Pavel Danilyuk
+  authorURL: https://www.pexels.com/@pavel-danilyuk
+  origin: Pexels
+  originURL: https://www.pexels.com/photo/8112201
 ---
 
 {{< accordion >}}

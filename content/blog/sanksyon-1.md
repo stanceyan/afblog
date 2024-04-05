@@ -4,9 +4,8 @@ title: Sanksyon disiplinè (premye gwoup)
 date: 2023-02-15
 description: Sanksyon ki konsène avètisman ak blam.
 tags:
-  - blog
+  - sanksyon
   - fonksyon piblik
-  - sanksyon 
 thumbnail:
   url: img/sanksyon.jpg
   author: Sora Shimazaki

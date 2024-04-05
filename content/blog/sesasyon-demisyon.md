@@ -1,12 +1,11 @@
 ---
 author: Alofonksyonè
-title: Sesasyon / Demisyon
+title: Demisyon
 date: 2023-04-12
 description: Fason volontè pou yon moun pa travay ankò nan Leta.
 tags:
-  - blog
-  - fonksyon piblik
-  - sesasyon 
+  - sesasyon
+  - fonksyon piblik 
 thumbnail:
   url: img/demisyon.jpg
   author: Cytonn Photography

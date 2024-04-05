@@ -4,9 +4,8 @@ title: Rekou
 date: 2023-03-22
 description: Plizyè kalte rekou kont desizyon administrativ.
 tags:
-  - blog
+  - rekou
   - fonksyon piblik
-  - rekou 
 thumbnail:
   url: img/rekou.jpg
   author: Katrin Bolovtsova
@@ -21,7 +20,7 @@ thumbnail:
 
   - Yon rekou grasye, ki konteste desizyon an devan otorite ki adopte l la menm
   - Yon rekou yerachik, devan siperyè yerachik otorite ki pran desizyon an
-  - yon rekou kontansye devan Lakoudèkont
+  - Yon rekou kontansye devan Lakoudèkont
 
   Objektif la se fè anile desizyon an.
   {{< /accordion-item >}}

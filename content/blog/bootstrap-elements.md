@@ -1,7 +1,7 @@
 ---
 author: Alofonksyone
 title: Bootstrap elements
-date: 2023-08-12
+date: 2024-02-13
 description: Use shortcodes to add common Bootstrap elements with ease.
 tags:
   - bootstrap

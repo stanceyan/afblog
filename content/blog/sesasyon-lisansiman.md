@@ -1,12 +1,11 @@
 ---
 author: Alofonksyonè
-title: Sesasyon / Lisansiman
+title: Lisansiman
 date: 2023-05-03
 description: Lòt fason pou yon moun pa travay ankò nan Leta.
 tags:
-  - blog
-  - fonksyon piblik
-  - sesasyon 
+  - sesasyon
+  - fonksyon piblik 
 thumbnail:
   url: img/lisansiman.jpg
   author: Tadamichi

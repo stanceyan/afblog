@@ -1,19 +1,17 @@
 ---
 author: Alofonksyonè
-title: Fk
+title: Prensip kategori anplwa yo
 date: 2022-07-27
-description: .
-# tags:
-#   - blog
-#   - fonksyon piblik
-#   - rekou 
-# thumbnail:
-#   url: img/rekou.jpg
-#   author: Katrin Bolovtsova
-#   authorURL: https://www.pexels.com/@ekaterina-bolovtsova
-#   origin: Pexels
-#   originURL: https://www.pexels.com/photo/6077447
-draft: true
+description: Gran liy enpòtan nan kategori yo
+tags:
+  - kategori
+  - fonksyon piblik
+thumbnail:
+  url: img/kategori.jpg
+  author: DS stories
+  authorURL: https://www.pexels.com/@ds-stories
+  origin: Pexels
+  originURL: https://www.pexels.com/photo/6990455
 ---
 
 {{< accordion >}}
@@ -25,4 +23,4 @@ draft: true
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-.
+Gen 4 kategori fonksyonè nan fonksyon piblik la. Dekrè sou fonksyon piblik la fè egzijans akademik pou chak kategori anplwa yo

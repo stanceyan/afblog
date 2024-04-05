@@ -4,9 +4,8 @@ title: Rekou yerachik
 date: 2023-05-31
 description: Lòt fason pou fonksyonè konteste yon desizyon.
 tags:
-  - blog
+  - rekou
   - fonksyon piblik
-  - rekou 
 thumbnail:
   url: img/rekou-yerachik.jpg
   author: Trueffelpix
@@ -24,4 +23,4 @@ thumbnail:
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-Depi rekou grasye fonksyonè a pa abouti, sa vle di Otorite ki adopte desizyon an pa dakò tounen sou li, nan ka sa fonksyonè a gendwa egzèse yon rekou yerachik devan moun ki se chèf otorite ki te adpte desizyon an nan sousi pou fè anile desizyon ki leze dwa l ak enterè l la.
+Depi rekou grasye fonksyonè a pa abouti, sa vle di otorite ki adopte desizyon an pa dakò tounen sou li, nan ka sa fonksyonè a gendwa egzèse yon rekou yerachik devan moun ki se chèf otorite ki te adpte desizyon an nan sousi pou fè anile desizyon ki leze dwa l ak enterè l la.
