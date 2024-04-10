@@ -5,13 +5,12 @@ date: 2022-05-23
 description: Men 3 enstans ki enplike nan jesyon fonksyon piblik la
 # tags:
 #   - fonksyon piblik
-# thumbnail:
-#   url: img/fonksyone.jpg
-#   author: Sigmund
-#   authorURL: https://unsplash.com/@sigmund
-#   origin: Unsplash
-#   originURL: https://unsplash.com/photos/r6tyWx_Mm9g
-draft: true
+thumbnail:
+  url: img/poto.jpg
+  author: Brett Sayles
+  authorURL: https://www.pexels.com/@brett-sayles
+  origin: Pexels
+  originURL: https://www.pexels.com/photo/1115322
 ---
 
 {{< accordion >}}

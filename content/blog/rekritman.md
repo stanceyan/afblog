@@ -6,13 +6,12 @@ description: Bon fason pou moun antre nan administrasyon piblik la
 tags:
   - rekritman
   - fonksyon piblik
-# thumbnail:
-#   url: img/fonksyone.jpg
-#   author: Sigmund
-#   authorURL: https://unsplash.com/@sigmund
-#   origin: Unsplash
-#   originURL: https://unsplash.com/photos/r6tyWx_Mm9g
-draft: true
+thumbnail:
+  url: img/rekritman1.jpg
+  author: Andy Barbour
+  authorURL: https://www.pexels.com/@andy-barbour
+  origin: Pexels
+  originURL: https://www.pexels.com/photo/6683438
 ---
 
 {{< accordion >}}

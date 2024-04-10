@@ -7,8 +7,8 @@ description: Presizyon sou sistèm reminerasyon ki aplikab pou  travay ki nan Le
 #   - fonksyon piblik
 thumbnail:
   url: img/reminerasyon.jpg
-  author: .
-  authorURL: https://www.pexels.com/@.
+  author: Pixabay
+  authorURL: https://www.pexels.com/@pixabay
   origin: Pexels
   originURL: https://www.pexels.com/photo/209224
 ---

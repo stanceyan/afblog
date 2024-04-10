@@ -19,7 +19,7 @@ thumbnail:
   - lèt ankourajman, 
   - lèt felisitasyon ak temwanyaj satisfaksyon. 
   
-  Premye minis la ka akode l yon pwomosyon ekspesyonel oubyen l ka dekore l nan òd sivil yo.
+  Premye minis la ka akode l yon pwomosyon eksepsyonel oubyen l ka dekore l nan òd sivil yo.
   {{< /accordion-item >}}
   <!-- {{< accordion-item header="Accordion Item #3" >}}
     This is the third item's accordion body.

@@ -5,13 +5,12 @@ date: 2022-05-23
 description: Wòl CSAFP nan administrasyon ak fonksyon piblik la
 # tags:
 #   - fonksyon piblik
-# thumbnail:
-#   url: img/fonksyone.jpg
-#   author: Sigmund
-#   authorURL: https://unsplash.com/@sigmund
-#   origin: Unsplash
-#   originURL: https://unsplash.com/photos/r6tyWx_Mm9g
-draft: true
+thumbnail:
+  url: img/konsey.jpg
+  author: Christina Morillo
+  authorURL: https://www.pexels.com/@divinetechygirl
+  origin: Pexels
+  originURL: https://www.pexels.com/photo/1181344
 ---
 
 {{< accordion >}}

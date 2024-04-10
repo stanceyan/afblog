@@ -5,13 +5,12 @@ date: 2022-06-07
 description: Jan pou Leta jere pòs ki vid yo
 # tags:
 #   - fonksyon piblik
-# thumbnail:
-#   url: img/fonksyone.jpg
-#   author: Sigmund
-#   authorURL: https://unsplash.com/@sigmund
-#   origin: Unsplash
-#   originURL: https://unsplash.com/photos/r6tyWx_Mm9g
-draft: true
+thumbnail:
+  url: img/pos.jpg
+  author: Sora Shimazaki
+  authorURL: https://www.pexels.com/@sora-shimazaki
+  origin: Pexels
+  originURL: https://www.pexels.com/photo/5673502
 ---
 
 {{< accordion >}}

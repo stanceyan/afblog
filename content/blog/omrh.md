@@ -1,17 +1,16 @@
 ---
 author: Alofonksyonè
-title: Wòl OMRH nan fonksyon piblik la
+title: OMRH
 date: 2022-07-06
 description: Travay OMRH nan sa ki konsène fonksyon piblik la
 # tags:
 #   - fonksyon piblik
-# thumbnail:
-#   url: img/rekou.jpg
-#   author: Katrin Bolovtsova
-#   authorURL: https://www.pexels.com/@ekaterina-bolovtsova
-#   origin: Pexels
-#   originURL: https://www.pexels.com/photo/6077447
-draft: true
+thumbnail:
+  url: img/loup.jpg
+  author: Markus Winkler
+  authorURL: https://unsplash.com/@markuswinkler
+  origin: Unsplash
+  originURL: https://unsplash.com/photos/v41a6J4Zrs4
 ---
 
 {{< accordion >}}

@@ -5,13 +5,12 @@ date: 2022-12-07
 description: Lè gen chire pit ant fonksyonè
 # tags:
 #   - fonksyon piblik
-# thumbnail:
-#   url: img/fonksyone.jpg
-#   author: Sigmund
-#   authorURL: https://unsplash.com/@sigmund
-#   origin: Unsplash
-#   originURL: https://unsplash.com/photos/r6tyWx_Mm9g
-draft: true
+thumbnail:
+  url: img/konfli.jpg
+  author: Richard Lee
+  authorURL: https://unsplash.com/@brock222
+  origin: Unsplash
+  originURL: https://unsplash.com/photos/9ME5tBjVyMQ
 ---
 
 {{< accordion >}}

@@ -5,13 +5,12 @@ date: 2022-05-09
 description: Presizyon sou fonksyonè ki gen plis ke 1 djòb
 # tags:
 #   - fonksyon piblik
-# thumbnail:
-#   url: img/fonksyone.jpg
-#   author: Sigmund
-#   authorURL: https://unsplash.com/@sigmund
-#   origin: Unsplash
-#   originURL: https://unsplash.com/photos/r6tyWx_Mm9g
-draft: true
+thumbnail:
+  url: img/met-klas.jpg
+  author: Zach Wear
+  authorURL: https://unsplash.com/@zachwear
+  origin: Unsplash
+  originURL: https://unsplash.com/photos/0XVJ5iMtRrQ
 ---
 
 {{< accordion >}}

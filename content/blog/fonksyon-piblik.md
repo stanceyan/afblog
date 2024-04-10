@@ -5,13 +5,12 @@ date: 2022-04-21
 description: Kisa lalwa di sou fonksyon piblik Ayiti
 # tags:
 #   - fonksyon piblik
-# thumbnail:
-#   url: img/fonksyone.jpg
-#   author: Sigmund
-#   authorURL: https://unsplash.com/@sigmund
-#   origin: Unsplash
-#   originURL: https://unsplash.com/photos/r6tyWx_Mm9g
-draft: true
+thumbnail:
+  url: img/karye.jpg
+  author: Adedire Abiodun
+  authorURL: https://www.pexels.com/@oacthecreator
+  origin: Pexels
+  originURL: https://www.pexels.com/photo/10604063
 ---
 
 {{< accordion >}}
