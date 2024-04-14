@@ -18,7 +18,7 @@
 
 [home]
     # sections = ["blog", "projects"]
-    sections = ["blog"]
+    sections = ["blog", "projects", "features", "users"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -44,7 +44,7 @@
 
 [sections]
     [sections.blog]
-        title = "Blog"
+        title = "Blòg"
         sort = "date"
         reverse = true
         cols = 5
@@ -57,7 +57,7 @@
         homepage = 5
         separator = true
     [sections.projects]
-        title = "Projects"
+        title = "Pwojè"
         layout = "card"
         sort = "title"
         reverse = false
@@ -72,7 +72,25 @@
         style = "border-1 card-emphasize"
         homepage = 3
         separator = false
-
+    [sections.features]
+        title = "Développez votre compréhension du droit de la fonction publique, découvrez, apprenez et informez-vous depuis votre appareil mobile, tablette ou ordinateur."
+        layout = "list"
+        sort = "weight"
+        reverse = false
+        style = "justify-content-center"
+    [sections.users]
+        title = "Discover"
+        layout = "nav"
+        sort = "weight"
+        reverse = false
+        background = "body-tertiary"
+        color = "primary"
+        style = "justify-content-center"
+        pane = "persona"
+        type = "pills"
+        width = 50
+        vertical = false
+        
 [favicon]
     logo = "/img/favicon.png"
     sizes = [16, 32, 48]
