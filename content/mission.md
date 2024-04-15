@@ -7,7 +7,7 @@ showComments: false
 draft: false
 ---
 
-## 
+## Mission
 
 {{< alert type="info" icon="fa-solid fa-bullseye" >}}
 **La mission de la plateforme est d'offrir une expérience enrichissante des savoirs sur le droit de la fonction publique pour toutes les personnes qui souhaitent approfondir leur connaissance de la chose publique.**
@@ -37,9 +37,11 @@ Pour accomplir cette mission et pour vous servir, le projet réunit une équipe 
 Loading...
 {{< /spinner >}}
 
-##
+## 
 
-Notre équipe est passionnée par les connaissances relatives à l'administration publique et croit ferme qu'un agent public bien renseigné pourrait mieux servir l'intérêt général. Des sujets et des réponses pertinentes vous sont proposés pour vous aider à approfondir votre compréhension de la chose publique et à découvrir de nouveaux aspects du travail des agents publics.
+Notre équipe est passionnée par les connaissances relatives à l'administration publique et croit ferme qu'un agent public bien renseigné pourrait mieux servir l'intérêt général. 
+
+Des sujets et des réponses pertinentes vous sont proposés pour vous aider à approfondir votre compréhension de la chose publique et à découvrir de nouveaux aspects du travail des agents publics.
 
 En agissant ainsi, Alofonksyonè participe à la promotion des biens communs et à la diffusion organisée des savoirs.
 
@@ -58,4 +60,4 @@ N'hésitez pas à nous contacter si vous avez des questions ou des suggestions p
 
 ###
 
-"*Votre qualité de citoyen se rattache à votre obligation de vous instruire et de vous perfectionner.*"
+"*Votre qualité de citoyen se rattache à votre obligation de vous instruire et de vous perfectionner.*" 📜 Constitution de la République

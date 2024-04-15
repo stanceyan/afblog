@@ -13,6 +13,10 @@ LE RENDEZ-VOUS DES EXPERTS
 
 Des experts passent en revue et commentent l'actualité au prisme du droit administratif.
 
+{{< alert color="danger" icon="fas triangle-exclamation" >}}
+    POUR BIENTÔT
+{{< /alert >}}
+
 {{< button href="www.google.com" >}}
   **Voir leurs analyses**
 {{< /button >}}
