@@ -2,8 +2,9 @@
 author: Publitek.ORG
 title: Publitek
 description: Sèvis rechèch dokiman legal
-tags: ["vufind", "lightsail"]
+tags: ["", ""]
 icon: fas book-atlas
+type: minimal
 ---
 
 {{< button icon="fa-solid fa-book-atlas" cue=false order="first" size="lg" href="https://publitek.org" >}}Publitek.ORG{{< /button >}}

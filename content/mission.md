@@ -2,7 +2,7 @@
 title: Notre mission
 description: Nous offrons une expérience enrichissante des savoirs sur le droit de la fonction publique.
 date: 2022-01-01
-# updated: 2023-08-02
+type: minimal
 showComments: false
 draft: false
 ---

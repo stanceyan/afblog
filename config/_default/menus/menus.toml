@@ -31,11 +31,13 @@
 [[social]]
   name = "Twitter"
   pre = "fab x-twitter"
-  url = "https://twitter.com/@alofonksyone"
+#  url = "https://twitter.com/@alofonksyone"
+  url = "https://twitter.com/@HenryHakins"
   weight = 20
 
 [[social]]
   name = "Facebook"
   pre = "fab facebook"
-  url = "https://facebook.com/@alofonksyone"
+#  url = "https://facebook.com/@alofonksyonè"
+  url = "https://shorturl.at/hqrGX"
   weight = 20
