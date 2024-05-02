@@ -42,6 +42,10 @@ home = ["HTML", "RSS", "REDIR"]
 [taxonomies]
   tag = 'tags'
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-6VGGGFL955"
+
 [minify]
   [minify.tdewolff.js]
     keepVarNames = true
