@@ -2,7 +2,7 @@
 author: Alofonksyonè
 title: Obeyisans yerachik
 date: 2023-02-02
-description: Youn nan prensib ki pwoteje fonksyonè nan kad travay li.
+description: Youn nan prensip ki pwoteje fonksyonè nan kad travay li.
 tags:
   - obligasyon
   - fonksyon piblik 

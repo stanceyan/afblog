@@ -1,8 +1,8 @@
 ---
 author: Alofonksyonè
-title: Rekritman (Eksepsyon)
+title: Rekritman (eksepsyon)
 date: 2023-09-21
-description: Fòmalite ki nesesè pou yo otorize yon enstitisyon lanse rekritman.
+description: Konkou rekritman pa pou moun sa yo
 tags:
   - rekritman
   - fonksyon piblik
@@ -26,4 +26,4 @@ thumbnail:
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-Gen kèk fonksyon nan administrasyon piblik la ki se chaj politik, pòs sa yo pa bay dwa a karyè. Nou jwenn lis pòs sa yo nan `atik 11 dekrè 2005 sou fonksyon piblik` la. Si se moun ki te fonksyonè ki vin okipe pòs sa yo, yo oblije mete yo an detachman pandan dire fonksyon an, e si moun lan pat fonksyonè avan l okipe fonksyon politik sa,li pap ka postile nan konkou rekritman pou l entegre fonksyon piblik la pandan tan lap okipe chaj politik la. 
+Gen kèk fonksyon nan administrasyon piblik la ki se chaj politik, pòs sa yo pa bay dwa a karyè. Nou jwenn lis pòs sa yo nan `atik 11 dekrè 2005 sou fonksyon piblik` la. Si se moun ki te fonksyonè ki vin okipe pòs sa yo, yo oblije mete yo an detachman pandan dire fonksyon an, e si moun lan pat fonksyonè avan l okipe fonksyon politik sa, li pap ka postile nan konkou rekritman pou l entegre fonksyon piblik la pandan tan l ap okipe chaj politik la. 

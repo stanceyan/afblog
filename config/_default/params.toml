@@ -73,7 +73,7 @@
         homepage = 3
         separator = false
     [sections.features]
-        title = "Développez votre compréhension du droit de la fonction publique, découvrez, apprenez et informez-vous depuis votre appareil mobile, tablette ou ordinateur."
+        title = "Développez votre compréhension du droit de la fonction publique."
         layout = "list"
         sort = "weight"
         reverse = false

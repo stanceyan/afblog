@@ -49,7 +49,7 @@ Nous espérons que ce site vous aidera dans votre parcours et dans vos questionn
 
 N'hésitez pas à nous contacter si vous avez des questions ou des suggestions pour améliorer le site.
 
-{{< button color="secondary" tooltip="Click on the inbox to view your unread messages" href="#!" badge="99+" >}}
+{{< button color="secondary" tooltip="N'hésitez pas à nous envoyer vos messages" href="#!" badge="99+" >}}
     Boîte de réception
 {{< /button >}}
 ####

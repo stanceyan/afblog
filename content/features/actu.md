@@ -17,6 +17,6 @@ Des experts passent en revue et commentent l'actualité au prisme du droit admin
     POUR BIENTÔT
 {{< /alert >}}
 
-{{< button href="www.google.com" >}}
+{{< button href="" >}}
   **Voir leurs analyses**
 {{< /button >}}

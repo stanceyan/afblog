@@ -1,6 +1,6 @@
 ---
 author: Alofonksyonè
-title: Rekritman
+title: Rekritman (otorizasyon)
 date: 2023-11-08
 description: Fòmalite ki nesesè pou yo otorize yon enstitisyon lanse rekritman.
 tags:
@@ -27,4 +27,4 @@ draft: false
   {{< /accordion-item >}} -->
 {{< /accordion >}}
 
-Nan sousi pou asire yon meyè jesyon previzyonèl efektif nan fonksyon piblik la, OMRH egzije tout enstitisyon piblik yo chak ane pou yo soumèt li lis pòs ki dwe konble, tèm referans pòs sa yo ak disponibilite lajan sou bidjè pou peye. Fòmalite sa esansyèl pou OMRH ka otorize epi andre pwosesis rekritman yo.
+Nan sousi pou asire yon meyè jesyon previzyonèl efektif nan fonksyon piblik la, OMRH egzije tout enstitisyon piblik yo chak ane pou yo soumèt li lis pòs ki dwe konble, tèm referans pòs sa yo ak disponibilite lajan sou bidjè pou peye. Fòmalite sa esansyèl pou OMRH ka otorize epi lanse pwosesis rekritman yo.

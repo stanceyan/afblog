@@ -2,7 +2,7 @@
 author: Alofonksyonè
 title: Fèt fonksyonè yo
 date: 2023-06-23
-description: Yon nimewo espesyal pou selebre Jounen entènasyonal Fonksyonè yo.
+description: Yon nimewo espesyal pou selebre Jounen entènasyonal Fonksyonè yo
 tags:
   - nimewo espesyal
 searchExclude: true
@@ -15,7 +15,7 @@ thumbnail:
 ---
   
 {{< alert type="info" >}}
-Le thème de la Journée de la fonction publique en Haiti, le 23 juin 2023 est : « **Une fonction publique en transformation plus attractive et plus ouverte au service de l'efficacite de l'administration** ». 
+Le thème de la Journée de la fonction publique en Haiti, le 23 juin 2023 est : « **Une fonction publique en transformation plus attractive et plus ouverte au service de l'efficacité de l'administration** ». 
 {{< /alert >}}
 
 *La Journée des Nations Unies pour la fonction publique, proclamée en 2003 par l'Assemblée générale des Nations Unies dans sa {{< link cue="true" tab=true href="https://undocs.org/fr/A/RES/57/277" >}}résolution A/RES/57/277{{< /link >}}, met en valeur le rôle de l'administration publique pour le développement et auprès des communautés.*
