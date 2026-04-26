@@ -2,95 +2,56 @@
 [main]
     separator = ""
     description = ""
-    enableDarkMode = true
-    modes = ["light", "dark"]
     canonifyAssetsURLs = false
     endorse = false
     footerBelowFold = false
     loading = "lazy"
     breakpoint = "md"
+    titleCase = false
+    [main.padding]
+        x = 4
+        y = 4
+    [main.internalLinks]
+        validate = true
+        pretty = false
     [main.externalLinks]
         cue = false
         tab = false
     [main.build]
-        transpiler = "libsass"
+        transpiler = "dartsass"
+        silenceDeprecations = true
+    [main.colorMode]
+        enabled = true
+        modes = ["light", "dark"]
+        toggle = false
 # toml-docs-end main
-
-[home]
-    # sections = ["blog", "projects"]
-    sections = ["blog", "projects", "features", "users"]
-    fullCover = false
-    centerHeadline = false
-    style = ""
-    [home.feature]
-        orientation = "horizontal"
-        color = "primary"
-        width = 4
-        align = "start"
 
 [navigation]
     anchor = true
-    logo = "https://raw.githubusercontent.com/stanceyan/afblog/main/static/img/logo_icon.svg"
+    logo = "/static/img/logo_icon.svg"
+    logo-mode = false
+    logo-align = "center"
+    logo-height = 30
     color = "body"
     fixed = true
+    overlay = false
+    overlayMode = "dark"
     horizontal = false
-    offset = "5.5rem"
-    search = true
-    searchModal = false
+    offset = "5.7rem"
     breadcrumb = true
     toc = true
     sidebar = true
     size = "md"
-
-[sections]
-    [sections.blog]
-        title = "Blòg"
-        sort = "date"
-        reverse = true
-        cols = 5
-        color = ""
-        padding = "0"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        style = "border-0 card-zoom card-body-margin"
-        homepage = 5
-        separator = true
-    [sections.projects]
-        title = "Pwojè"
-        layout = "card"
-        sort = "title"
-        reverse = false
-        nested = true
-        cols = 1
-        background = "body-tertiary"
-        color = "body"
-        padding = "3"
-        header = "none"
-        footer = "tags"
-        orientation = "horizontal-sm"
-        style = "border-1 card-emphasize"
-        homepage = 3
-        separator = false
-    [sections.features]
-        title = "Développez votre compréhension du droit de la fonction publique."
-        layout = "list"
-        sort = "weight"
-        reverse = false
-        style = "justify-content-center"
-    [sections.users]
-        title = "Discover"
-        layout = "nav"
-        sort = "weight"
-        reverse = false
-        background = "body-tertiary"
-        color = "primary"
-        style = "justify-content-center"
-        pane = "persona"
-        type = "pills"
-        width = 50
-        vertical = false
-        
+    startLevel = 2
+    endLevel = 3
+    maxNumHeadings = 9
+    [navigation.padding]
+        x = 4
+        y = 4
+    [navigation.search]
+        enabled = true
+        modal = true
+  
 [favicon]
     logo = "/img/favicon.png"
     sizes = [16, 32, 48]

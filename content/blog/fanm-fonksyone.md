@@ -6,7 +6,7 @@ description: Yon nimewo espesyal pou selebre Jounen entènasyonal Fanm yo.
 tags:
   - nimewo espesyal
   - fanm
-searchExclude: true
+# searchExclude: true
 thumbnail:
   url: img/fanm-fonksyone.jpg
   author: Christina
@@ -15,11 +15,11 @@ thumbnail:
   originURL: https://unsplash.com/photos/ioGkluYGy38
 ---
 
-{{< alert type="info" >}}
+{{< alert color="info" >}}
 Le thème de la Journée internationale des femmes, le 8 mars 2023 (JIF 2023) est : « **Pour un monde digital inclusif : innovation et technologies pour l’égalité des sexes** ». 
 {{< /alert >}}
 
-*Ce thème est associé au thème prioritaire de la 67e session de la{{< link cue="true" tab=true href="https://www.unwomen.org/en/csw/csw67-2023" >}}Commission de la condition de la femme (CSW-67){{< /link >}}, à savoir « L’innovation, le changement technologique et l’éducation à l’ère du numérique pour réaliser l’égalité des sexes et autonomiser toutes les femmes et les filles ».*
+*Ce thème est associé au thème prioritaire de la 67e session de la{{< link cue="true"  href="https://www.unwomen.org/en/csw/csw67-2023" >}}Commission de la condition de la femme (CSW-67){{< /link >}}, à savoir « L’innovation, le changement technologique et l’éducation à l’ère du numérique pour réaliser l’égalité des sexes et autonomiser toutes les femmes et les filles ».*
 
 Nan okazyon jounen mondyal lit pou dwa fanm yo, Alo Fonksyonè vle rann omaj ak tout fonksyonè fanm san distenksyon ki mete konesans ak konpetans yo osèvis administrasyon piblik la.
 
@@ -30,20 +30,20 @@ Chif sa yo montre aklè dwe gen yon politik pou rann fonksyon piblik la pi akses
 
 Alo Fonsyonè swete ke gen konkou ki òganize regilyèman pou bay aksè a fonksyon piblik la e kandidati medam yo dwe ankouraje.
 
-{{< nav type="tabs" id="tabs-1" >}}
-  {{< nav-item header="pdf" show="true" >}}
+{{< nav tab-type="tabs" id="tabs-1" >}}
+  {{< nav-item title="pdf" show="true" >}}
     {{</* link cue="true" href="http://omrh.gouv.ht/Media/news/rfph_201802.pdf" >}}Document à consulter{{< /link */>}} : 
     
     Rapport sur les effectifs de la fonction publique en Haïti (2018), CAP / OMRH
   {{< /nav-item >}}
-  {{< nav-item header="sigles" >}}
+  {{< nav-item title="sigles" >}}
     -
 
     OMRH : Office de management et des ressources humaines
     ENA : Ecole nationale d'administration
     BID : Banque interaméricaine de développement
   {{< /nav-item >}}
-  {{< nav-item header="graphes" >}}
+  {{< nav-item title="graphes" >}}
     {{</* image src="img/rfph-sexe.png" caption="Source: Calculs éffectués à l'aide des donnees du SysPay, déc. 17" class="rounded" */>}}
     {{</* image src="img/rfph-benchmarking.png" caption="Source : Calculs éffectués à partir de la base de donnees ILOSAT du BIT" class="rounded" */>}}
   {{< /nav-item >}}

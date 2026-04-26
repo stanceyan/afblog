@@ -15,12 +15,12 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 127-134 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 127-134 dekrè sou fonksyon piblik la" show="true" >}}
   Yon fonksyonè ki jwenn nominasyon pou yon pòs politik dwe mande mete l an detachman pou l ka ranpli fonsyon politik sa.
   
   Lè peryòd detachman an fini (2 zan pou pi plis), l ap reyentegre fonksyon piblik la, swa nan enstitisyon li te ye avan an osnon yon lòt enstitisyon ki gen pòs disponib.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

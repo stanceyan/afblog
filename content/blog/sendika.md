@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 151 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 151 dekrè sou fonksyon piblik la" show="true" >}}
   Lalwa rekonèt epi garanti libète asosyasyon ak sendika nan fonksyon piblik la. Kidonk fonksyonè ka òganize yo, gwoupe nan asosyasyon oubyen sendika pou defann dwa ak enterè yo depi sa fèt selon jan lalwa di pou sa fèt.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

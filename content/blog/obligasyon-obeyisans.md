@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 177 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 177 dekrè sou fonksyon piblik la" show="true" >}}
   Depi se nan limit atribisyon l epi sou lòd siperyè yerachik li, pyès fonksyonè pa dwe enkyete pou zak li poze. Li dwe selman asire l ke lòd siperyè l la regilye, ke l pa kontrè ak lalwa oubyen ak enterè piblik la.
     {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #2" >}}
+  <!-- {{< accordion-item title="Accordion Item #2" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

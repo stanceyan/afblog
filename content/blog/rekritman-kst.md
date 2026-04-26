@@ -15,13 +15,13 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 11 arete sou òganizasyon konkou nan Leta" show="true" >}}
+  {{< accordion-item title="Atik 11 arete sou òganizasyon konkou nan Leta" show="true" >}}
   Lè administrasyon an vle rekrite yon pwofesyonèl eksperimante parapò ak pòs li vle konble a, se yon konkou sou tit li dwe òganize aprè avi OMRH. Se sou baz dosye kandida yo yo seleksyone e gen yon jiri oubyen komisyon ki monte pou egzamine diplòm, konpetans ak eksperyans kandida yo pou rive chwazi meyè a. Kandida kalifye a dwe pase yon antrevi avan li angaje.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #2" >}}
+  <!-- {{< accordion-item title="Accordion Item #2" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

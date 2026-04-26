@@ -15,7 +15,7 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 201-206 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 201-206 dekrè sou fonksyon piblik la" show="true" >}}
   Si li estime desizyon an ilegal ou abitrè, yon fonksyonè ka entante :
 
   - Yon rekou grasye, ki konteste desizyon an devan otorite ki adopte l la menm
@@ -24,7 +24,7 @@ thumbnail:
 
   Objektif la se fè anile desizyon an.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

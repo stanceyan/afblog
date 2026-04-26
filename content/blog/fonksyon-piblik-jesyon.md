@@ -14,14 +14,14 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 22 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 22 dekrè sou fonksyon piblik la" show="true" >}}
   Enstans ki la pou asire jesyon fonksyon piblik la se:
 
   - Konsèy siperyè administrasyon ak fonksyon piblik la (CSAFP)
   - Ofis manajman ak jesyon resous imèn (OMRH)
   - Ministè yo
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

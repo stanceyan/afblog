@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 66, 67, 68 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 66, 67, 68 dekrè sou fonksyon piblik la" show="true" >}}
   Gen yon sistèm evalyasyon ki tabli nan fonksyon piblik la pou pèmèt yo sitiye fonksyonè yo parapò ak aptitid yo, konpetans yo ak pèfòmans yo. Rezilta evalyasyon sa ki fèt yon fwa chak ane sèvi kòm baz pou avansman fonksyonè yo, defini bezwen yo nan domèn fòmasyon, reklasman yo ou lisansiman yo. Gen yon tablo avansman ki drese an fonksyon merit fonksyonè yo.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

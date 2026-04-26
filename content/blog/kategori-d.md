@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 94 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 94 dekrè sou fonksyon piblik la" show="true" >}}
   Kategori D : Fonksyonè k ap fe yon travay egzekisyon. Yo dwe boukle pou pi piti premye nivo sik fondamantal pou yo gen aksè a kategori sa.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

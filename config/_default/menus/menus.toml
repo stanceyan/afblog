@@ -2,18 +2,18 @@
 # main menu 
 [[main]]
   name = "À propos"
-  pageRef = "./about/"
+  pageRef = "/about/"
   weight = 10
 
 [[main]]
   name = "Blog"
-  pageRef = "./blog/"
+  pageRef = "/blog/"
   weight = 20
 
-[[main]]
-  name = "Tags"
-  pageRef = "./tags/"
-  weight = 40
+# [[main]]
+#   name = "Tags"
+#   pageRef = "/tags/"
+#   weight = 40
 
 # social icon
 [[social]]

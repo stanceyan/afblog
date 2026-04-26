@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 18-22 arete sou evalyasyon pèfòmans" show="true" >}}
+  {{< accordion-item title="Atik 18-22 arete sou evalyasyon pèfòmans" show="true" >}}
   Fonksyonè ki resevwa yon pwomosyon eksepsyonèl pandan ane fiskal la, fonksyonè ki an disponibilite, sila yo ki an konje fòmasyon, konje long dire oubyen òkad pap pase evalyasyon anyèl la. Sepandan fonksyonè ki afekte a yon nouvo pòs pandan ane fiskal la ap evalye pou ansyen pòs la si l deja pase plis ke 6 mwa ladan. Fonksyonè ki a dispozisyon yo ap evalye selon pèfòmans yo bay nan administrasyon akèy la apati 6 mwa sèvis yo founi.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

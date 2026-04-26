@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 157 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 157 dekrè sou fonksyon piblik la" show="true" >}}
   Anplis pwoteksyon sosyal, Leta dwe garanti pwoteksyon jiridik fonksyonè yo kont tout pouswit sivil oubyen penal nan kad egzèsis fonksyon yo, sof si se yon fot pèsonèl. Okenn kondanasyon sivil pa ka pwononse kont fonksyonè yo nan kad egzèsis fonksyon yo.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

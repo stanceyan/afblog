@@ -16,13 +16,13 @@ draft: false
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 14 arete sou òganizasyon konkou nan Leta" show="true" >}}
+  {{< accordion-item title="Atik 14 arete sou òganizasyon konkou nan Leta" show="true" >}}
   Tout enstitisyon piblik ki fè pati fonksyon piblik la dwe drese lis bezwen resous zimèn yo genyen, pòs ki vid yo, tèm referans pou chak pòs, disponibilite lajan sou bidjè pou peye nouvo anplwaye yo epi voye l bay OMRH. Sa se fòmalite k ap pèmèt OMRH otorize yo lanse konkou rekritman pou pòs sa yo.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #2" >}}
+  <!-- {{< accordion-item title="Accordion Item #2" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

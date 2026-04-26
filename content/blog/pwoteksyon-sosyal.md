@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 152-153 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 152-153 dekrè sou fonksyon piblik la" show="true" >}}
   Fonksyonè yo dwe benefisye pwoteksyon sosyal, asirans sante k ap pèmèt yo jwenn ranbousman depans yo fè pou yo pran swen kay doktè nan ka maladi ak aksidan epi asirans desè. Yo dwe benefisye pwoteksyon Leta lè yo ekspoze a menas, atak, jouman ak avilisman nan kad egzèsis fonksyon yo.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

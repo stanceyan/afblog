@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 71-74 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 71-74 dekrè sou fonksyon piblik la" show="true" >}}
   Pandan antretyen evalyasyon an, chèf imedya fonksyonè a apresye randman l parapò ak reyalizasyon objektif ki te fikse depi nan premye mwa ane fiskal la oubyen nan antre fonksyon l si li nouvo. Objektif sa yo dwe kominike ak tout ajan konsène yo e dwe gen yon revizyon deskripsyon tach kap fasilite akonplisman objektif yo. Rezilta evalyasyon sa se yon nòt chifre ki koresponn ak kritè yo sou yon echèl 1 a 5, nòt minimal la se 3 ki vle di objektif yo atenn.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

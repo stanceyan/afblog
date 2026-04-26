@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 91 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 91 dekrè sou fonksyon piblik la" show="true" >}}
   Kategori A : Fonksyonè k ap fe travay konsepsyon, elaborasyon, sentèz epi kowodinasyon ak direksyon. Pou l gen aksè a kategori sa li obligatwa pou fonksyonè a gen pou pi piti yon lisans akademik.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

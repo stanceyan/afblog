@@ -14,14 +14,13 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 6-13 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 6-13 dekrè sou fonksyon piblik la" show="true" >}}
   Gen de kategori ajan piblik:
 
   - Fonksyonè yo ki nome pou yon travay pèmanan
   - Kontraktyèl yo ki angaje sou baz yon kontra ki presize pou konbyen tan y ap travay pou Leta.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}
-

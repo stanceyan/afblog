@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 157 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 157 dekrè sou fonksyon piblik la" show="true" >}}
   Lè gen manb pèsonèl yon enstitisyon piblik ki an konfli, se responsabilite direksyon osnon sèvis resous zimèn pou fè abritaj ak konsilyasyon pou rezoud pwoblèm la epi drese rapò bay responsab enstitisyon an.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

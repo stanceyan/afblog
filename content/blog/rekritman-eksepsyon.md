@@ -15,13 +15,13 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 10 arete sou òganizasyon konkou nan Leta" show="true" >}}
+  {{< accordion-item title="Atik 10 arete sou òganizasyon konkou nan Leta" show="true" >}}
   Tout moun ki okipe yon fonksyon oubyen yon chaj polotik nan administrasyon piblik la tankou Komisè gouvènman, delege, vis delege, direktè jeneral, anbasadè elatriye sa n pa bliye moun ki gen yon manda pou egzèse yon chaj politik, yo youn pap ka patisipe nan konkou rekritman pou entegre fonksyon piblik la pandan dire manda oubyen fonksyon politik yo a.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #2" >}}
+  <!-- {{< accordion-item title="Accordion Item #2" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

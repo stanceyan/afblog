@@ -16,10 +16,10 @@ draft: false
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 170, 180 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 170, 180 dekrè sou fonksyon piblik la" show="true" >}}
   Fonksyonè yo gen obligasyon sekrè ak diskresyon pwofesyonèl. Kidonk yo pa gen dwa pataje, ni pibliye enfòmasyon ak dokiman yo resevwa nan kad egzèsis fonksyon yo. Yo pa gen dwa revele anyen nan kad tretman dosye administratif yo e obligasyon sa kenbe menm aprè yo sispann fe pati fonksyon piblik la.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}
@@ -40,7 +40,7 @@ Se kòd penal la ki sanksyone vyolasyon sekrè pwofesyonèl, li gen ladan transm
 
 Kanta pou diskresyon pwofesyonèl la, li pi vas pase sekrè pwofesyonèl la. Li gen ladan tout enfòmasyon ak fè fonksyonè a okouran nan kad egzèsis fonksyon l. Tankou pataje rezilta yon ankèt konfidansyèl, oubyen kominike non fonksyonè kap travay sou yon dosye presi elatriye. Fonksyonè fotif la ekspoze a sanksyon disiplinè. 
 
-{{< alert type="info" >}}
+{{< alert color="info" >}}
 **États-Unis d'Amérique : Une fonctionaire arrêtée pour avoir divulgé des informations à un journaliste**
 
 Natalie Mayflower Sours Edwards, 40 ans, a été inculpée pour avoir transmis des rapports sur des transactions financières suspectes, qui ont alimenté douze articles du site d'informations en ligne BuzzFeed en un an, selon un communiqué du département.

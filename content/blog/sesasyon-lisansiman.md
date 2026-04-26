@@ -15,14 +15,14 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 198 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 198 dekrè sou fonksyon piblik la" show="true" >}}
   Yon lòt fason yo mete fen nan karyè yon fonksyonè se lè li lisansye. Gen 3 rezon pou lisansye yon fonksyonè:
   
   - ensifizans pwofesyonèl,
   - sipresyon anplwa ak
   - pèt nasyonalite fonksyonè a.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

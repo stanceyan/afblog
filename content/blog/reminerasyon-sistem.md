@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 160 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 160 dekrè sou fonksyon piblik la" show="true" >}}
   Se OMRH ki responsab pou mete anplas sistèm reminerasyon ki aplikab a fonksyon piblik la nan tèt a tèt ak Ministè finans. Se yon arete Premye minis la ki ap valide sistèm sa ki gen ladan yon griy endisyè salè, prim ak avantaj.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

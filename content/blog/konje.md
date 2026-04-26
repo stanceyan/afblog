@@ -15,7 +15,7 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 107, 124 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 107, 124 dekrè sou fonksyon piblik la" show="true" >}}
   Fonksyonè an aktivite a gen dwa a :
 
   - Konje anyèl (15 jou si l gen 1 a 5 ane karyè, 20 jou si l gen 6 a 10 zan e 25 jou si l gen 11 an ou plis)
@@ -25,7 +25,7 @@ thumbnail:
   - Konje patènite (5 jou)
   - Konje prezans parantal (5 jou)
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

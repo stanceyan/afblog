@@ -15,12 +15,12 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 121-122 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 121-122 dekrè sou fonksyon piblik la" show="true" >}}
   Fonksyonè piblik ki ap pote yon bebe dwe benefisye 12 semèn konje selon lalwa. Konje sa dwe kòmanse 2 semèn avan akouchman an sof si doktè ta rekòmande yon lòt dat pou sa pa mwayen sètifika medikal.
 
   Papa pitit la dwe benefisye 5 jou konje patènite apati dat akouchman madanm li.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

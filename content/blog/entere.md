@@ -15,10 +15,10 @@ draft: false
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 175 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 175 dekrè sou fonksyon piblik la" show="true" >}}
   Fonksyonè yo pa dwe gen enterè ki ka fe yo touye je sou prinsip enpasyalite ak endepandans. Yon fonksyonè ki gen madanm oubyen mouche k ap egzèse aktivite biznis ou komès dwe deklare sa pa ekri nan enstitisyon l e kopi dwe al jwenn OMRH nan sousi pou pran mezi pou pwoteje enterè administrasyon an.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

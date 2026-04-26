@@ -16,13 +16,13 @@ draft: false
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 183 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 183 dekrè sou fonksyon piblik la" show="true" >}}
   Lalwa prevwa pou yo angaje yon aksyon disiplinè kont tout fonksyonè pou fot oubyen mankman a obligasyon yo. Pouswit sa ap abouti a yon sanksyon disiplinè. Pou sa fèt, fot la dwe byen karakterize.
     {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #2" >}}
+  <!-- {{< accordion-item title="Accordion Item #2" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

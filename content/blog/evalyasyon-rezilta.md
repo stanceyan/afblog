@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 205 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 205 dekrè sou fonksyon piblik la" show="true" >}}
   Antretyen evalyasyon pèfòmans lan chita sou bilan fiskal la, verifikasyon ekilib ant rezilta ak kondisyon travay yo, enpak akonpanyeman siperyè yerachik la sou travay fonksyonè, kontrent ki te anpeche reyalizasyon objektif yo ak aktivite ki reyalize andeyò pwogram lan. Rezilta evalyasyon an dwe kominike a fonksyonè a e li dwe anrejistre nan dosye li ak fichye santral la.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

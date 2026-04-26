@@ -16,7 +16,7 @@ draft: false
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 188 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 188 dekrè sou fonksyon piblik la" show="true" >}}
   Sanksyon disiplinè ke responsab enstitisyon an ka pwononse kont fonksyonè a : 
   - Bese echlon l
   - Sispann li pou youn a twa mwa nan salè
@@ -25,10 +25,10 @@ draft: false
   Se sel otorite nominasyon an ki ka deside sanksyon ki nan 4è gwoup la, sa vle di mizandisponibilite dofis ak revokasyon.
 
   {{< /accordion-item >}}
-  {{< accordion-item header="Atik 28 dekrè sou administrasyon piblik la" >}}
+  {{< accordion-item title="Atik 28 dekrè sou administrasyon piblik la" >}}
   Le Premier Ministre nomme et révoque directement les fonctionnaires de l'État selon les conditions prévues par la Constitution et par le Statut Général de la Fonction Publique
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

@@ -15,7 +15,7 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 101, 102 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 101, 102 dekrè sou fonksyon piblik la" show="true" >}}
   Pozisyon yon fonksyonè deziye nan ki sitiyasyon l twouve l parapò ak karyèl.
 
   Li ka :
@@ -25,7 +25,7 @@ thumbnail:
   - Ò kad
   - An konje manch long
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

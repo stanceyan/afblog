@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 179 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 179 dekrè sou fonksyon piblik la" show="true" >}}
   Fonksyonè yo gen obligasyon enpasyalite ak netralite. Kidonk yo dwe trete tout izaje yo egal ego ak menm kalite sèvis, san patipri. Se yon sèl e menm sèvis piblik e tout izaje yo dwe gen menm aksè.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

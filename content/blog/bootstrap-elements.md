@@ -21,14 +21,14 @@ Hinode provides several shortcodes that wrap common Bootstrap components. Refer 
 ## Accordion
 
 {{< accordion >}}
-  {{< accordion-item header="Accordion Item #1" show="true" >}}
+  {{< accordion-item title="Accordion Item #1" show="true" >}}
     This is the first item's accordion body. It supports HTML content, if enabled in the goldmark
     renderer. The item is shown by adding the value `show` to the `class` argument.
   {{< /accordion-item >}}
-  {{< accordion-item header="Accordion Item #2" >}}
+  {{< accordion-item title="Accordion Item #2" >}}
     This is the second item's accordion body.
   {{< /accordion-item >}}
-  {{< accordion-item header="Accordion Item #3" >}}
+  {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}}
 {{< /accordion >}}
@@ -80,11 +80,11 @@ Hinode provides several shortcodes that wrap common Bootstrap components. Refer 
 {{< /alert >}}
 
 <!--- Alert of specific type -->
-{{< alert type="info" >}}
+{{< alert color="info" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
 {{< /alert >}}
 
-{{< alert type="danger" >}}
+{{< alert color="danger" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
 {{< /alert >}}
 
@@ -137,14 +137,14 @@ Heading 6 {{< badge title="New" >}} {.h6}
 {{< button color="primary" href="#!" state="inactive" >}}Inactive{{< /button >}}
 
 <!--- Colored buttons -->
-{{< button color="primary" href="#!" size="sm" >}}primary{{< /button >}}
-{{< button color="secondary" href="#!" size="sm" >}}secondary{{< /button >}}
-{{< button color="success" href="#!" size="sm" >}}success{{< /button >}}
-{{< button color="danger" href="#!" size="sm" >}}danger{{< /button >}}
-{{< button color="warning" href="#!" size="sm" >}}warning{{< /button >}}
-{{< button color="info" href="#!" size="sm" >}}info{{< /button >}}
-{{< button color="light" href="#!" size="sm" >}}light{{< /button >}}
-{{< button color="dark" href="#!" size="sm" >}}dark{{< /button >}}
+{{< button color="primary" href="#!" button-size="sm" >}}primary{{< /button >}}
+{{< button color="secondary" href="#!" button-size="sm" >}}secondary{{< /button >}}
+{{< button color="success" href="#!" button-size="sm" >}}success{{< /button >}}
+{{< button color="danger" href="#!" button-size="sm" >}}danger{{< /button >}}
+{{< button color="warning" href="#!" button-size="sm" >}}warning{{< /button >}}
+{{< button color="info" href="#!" button-size="sm" >}}info{{< /button >}}
+{{< button color="light" href="#!" button-size="sm" >}}light{{< /button >}}
+{{< button color="dark" href="#!" button-size="sm" >}}dark{{< /button >}}
 
 <!--- Buttons with a badge -->
 {{< button color="secondary" tooltip="Click on the inbox to view your unread messages" href="#!" badge="99+" >}}
@@ -181,55 +181,55 @@ Heading 6 {{< badge title="New" >}} {.h6}
 
 <!-- Colored cards  -->
 {{< card-group cols="4" gutter="3" >}}
-    {{< card color="primary" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="secondary" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="success" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="danger" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="warning" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="info" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="light" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="dark" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="white" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="black" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="body" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
-    {{< card color="body-tertiary" path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card color="primary" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="secondary" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="success" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="danger" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="warning" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="info" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="light" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="dark" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="white" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="black" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="body" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
+    {{< card color="body-tertiary" path="blog/fanm-fonksyone" title="none" orientation="none" />}}
 {{< /card-group >}}
 
 
 <!-- Custom header -->
 {{< card-group cols="4" gutter="3" >}}
-    {{< card path="blog/fanm-fonksyone" header="full" orientation="none" />}}
-    {{< card path="blog/fanm-fonksyone" header="publication" orientation="none" />}}
-    {{< card path="blog/fanm-fonksyone" header="tags" orientation="none" />}}
-    {{< card path="blog/fanm-fonksyone" header="none" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" title="full" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" title="publication" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" title="tags" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" title="none" orientation="none" />}}
 {{< /card-group >}}
 
-{{< card path="about" padding="3" class="col-6 mx-auto" color="body-tertiary" header="publication" footer="none" />}}
+{{< card path="about" padding="3" class="col-6 mx-auto" color="body-tertiary" title="publication" footer="none" />}}
 
 <!-- Custom footer -->
 {{< card-group cols="4" gutter="3" >}}
-    {{< card path="blog/fanm-fonksyone" header="none" footer="full" orientation="none" />}}
-    {{< card path="blog/fanm-fonksyone" header="none" footer="publication" orientation="none" />}}
-    {{< card path="blog/fanm-fonksyone" header="none" footer="tags" orientation="none" />}}
-    {{< card path="blog/fanm-fonksyone" header="none" footer="none" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" title="none" footer="full" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" title="none" footer="publication" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" title="none" footer="tags" orientation="none" />}}
+    {{< card path="blog/fanm-fonksyone" title="none" footer="none" orientation="none" />}}
 {{< /card-group >}}
 
 <!-- Image placement -->
-{{< card path="blog/fanm-fonksyone" header="none" footer="none" orientation="stacked" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
-{{< card path="blog/fanm-fonksyone" header="none" footer="none" orientation="stacked" padding="3" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
-{{< card path="blog/fanm-fonksyone" header="publication" footer="tags" orientation="horizontal" class="col-sm-12 col-lg-8 mx-auto" />}}
-{{< card path="blog/fanm-fonksyone" header="publication" footer="tags" orientation="horizontal" padding="3" class="col-sm-12 col-lg-8 mx-auto" />}}
+{{< card path="blog/fanm-fonksyone" title="none" footer="none" orientation="stacked" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
+{{< card path="blog/fanm-fonksyone" title="none" footer="none" orientation="stacked" padding="3" class="col-sm-12 col-lg-6 mx-auto mb-3" />}}
+{{< card path="blog/fanm-fonksyone" title="publication" footer="tags" orientation="horizontal" class="col-sm-12 col-lg-8 mx-auto" />}}
+{{< card path="blog/fanm-fonksyone" title="publication" footer="tags" orientation="horizontal" padding="3" class="col-sm-12 col-lg-8 mx-auto" />}}
 
 <!-- Inline content -->
-{{< card header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto mb-3" title="Title" icon="fa address-card" >}}
+{{< card title="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto mb-3" title="Title" icon="fa address-card" >}}
     This is the `body` of the card. It supports Markdown.
 {{< /card >}}
-{{< card header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto" title="Title" thumbnail="img/book.jpg" >}}
+{{< card title="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto" title="Title" thumbnail="img/book.jpg" >}}
     This is the `body` of the card. It supports Markdown too.
 {{< /card >}}
 
 <!-- Custom styling -->
-{{< card path="blog/fanm-fonksyone" header="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto card-shrink" />}}
+{{< card path="blog/fanm-fonksyone" title="none" footer="none" padding="3" class="col-sm-12 col-lg-8 mx-auto card-shrink" />}}
 
 ## Card group
 
@@ -296,7 +296,7 @@ Heading 6 {{< badge title="New" >}} {.h6}
 
 - {{< link hinode >}}Named link with default settings{{< /link >}}
 - {{< link name=hinode cue=false tab=false >}}Named link opening in current tab w/o icon{{< /link >}}
-- {{< link name=hinode cue=true tab=true >}}Named link opening in new tab with icon{{< /link >}}
+- {{< link name=hinode cue=true  >}}Named link opening in new tab with icon{{< /link >}}
 - {{< link hinode />}}
 - {{< link href="https://developer.mozilla.org" >}}External link{{< /link >}}
 - {{< link "./projects/another-project" >}}Internal link with title{{< /link >}}
@@ -330,84 +330,84 @@ Use the mark shortcode to {{< mark >}}highlight{{< /mark >}} specific text.
 ## Nav & tab
 
 <!-- Vertical -->
-  {{< nav type="pills" vertical="true" >}}
-    {{< nav-item header="Nav Item #1" show="true" >}}
+  {{< nav tab-type="pills" vertical="true" >}}
+    {{< nav-item title="Nav Item #1" show="true" >}}
       This is the first item's nav body. It supports HTML content, if enabled in the goldmark
       renderer. The item is shown by adding the value `show` to the `class` argument.
     {{< /nav-item >}}
-    {{< nav-item header="Nav Item #2" >}}
+    {{< nav-item title="Nav Item #2" >}}
       This is the second item's nav body.
     {{< /nav-item >}}
-    {{< nav-item header="Nav Item #3" >}}
+    {{< nav-item title="Nav Item #3" >}}
       This is the third item's nav body.
     {{< /nav-item >}}
   {{< /nav >}}
 
 <!-- Tabs -->
-{{< nav type="tabs" id="tabs-1" >}}
-  {{< nav-item header="Nav Item #1" show="true" >}}
+{{< nav tab-type="tabs" id="tabs-1" >}}
+  {{< nav-item title="Nav Item #1" show="true" >}}
     This is the first item's nav body. It supports Markdown content. The item is shown by adding
     the value `show` to the `class` argument.
   {{< /nav-item >}}
-  {{< nav-item header="Nav Item #2" >}}
+  {{< nav-item title="Nav Item #2" >}}
     This is the second item's nav body. It too supports HTML content.
   {{< /nav-item >}}
-  {{< nav-item header="Nav Item #3" disabled="true" />}}
+  {{< nav-item title="Nav Item #3" disabled="true" />}}
 {{< /nav >}}
 
 <!-- Pills -->
-{{< nav type="pills" id="pills-1" >}}
-  {{< nav-item header="Nav Item #1" show="true" >}}
+{{< nav tab-type="pills" id="pills-1" >}}
+  {{< nav-item title="Nav Item #1" show="true" >}}
     This is the first item's nav body. It supports Markdown content. The item is shown by adding
     the value `show` to the `class` argument.
   {{< /nav-item >}}
-  {{< nav-item header="Nav Item #2" >}}
+  {{< nav-item title="Nav Item #2" >}}
     This is the second item's nav body. It too supports HTML content.
   {{< /nav-item >}}
-  {{< nav-item header="Nav Item #3" disabled="true" />}}
+  {{< nav-item title="Nav Item #3" disabled="true" />}}
 {{< /nav >}}
 
 <!-- Underline -->
-{{< nav type="underline" id="underline-1" >}}
-  {{< nav-item header="Nav Item #1" show="true" >}}
+{{< nav tab-type="underline" id="underline-1" >}}
+  {{< nav-item title="Nav Item #1" show="true" >}}
     This is the first item's nav body. It supports Markdown content. The item is shown by adding
     the value `show` to the `class` argument.
   {{< /nav-item >}}
-  {{< nav-item header="Nav Item #2" >}}
+  {{< nav-item title="Nav Item #2" >}}
     This is the second item's nav body. It too supports HTML content.
   {{< /nav-item >}}
-  {{< nav-item header="Nav Item #3" disabled="true" />}}
+  {{< nav-item title="Nav Item #3" disabled="true" />}}
 {{< /nav >}}
 
 ## Navbar
 
 <!-- Brand text and logo -->
-{{< navbar id="navbar-logo" logo="/img/logo_icon.svg" path="blog" color="body" size="md" search="false" menus="sample" mode="false" >}}
+{{< navbar id="navbar-logo" logo="/img/logo_icon.svg" path="blog" color="body" button-size="md" search="false" menus="sample" mode="false" >}}
 {.mb-3}
-{{< navbar id="navbar-title" title="Brand" path="blog" color="body" size="md" search="false" menus="sample" mode="false" >}}
+{{< navbar id="navbar-title" title="Brand" path="blog" color="body" button-size="md" search="false" menus="sample" mode="false" >}}
 
 <!-- Colored navbar -->
-{{< navbar id="navbar-sample" path="blog" color="primary" size="md" search="false" menus="sample" title="Brand" mode="false" >}}
+{{< navbar id="navbar-sample" path="blog" color="primary" button-size="md" search="false" menus="sample" title="Brand" mode="false" >}}
 {.mb-3}
-{{< navbar id="navbar-color-1" path="blog" color="primary" size="sm" search="false" menus="sample" mode="false" >}}
+{{< navbar id="navbar-color-1" path="blog" color="primary" button-size="sm" search="false" menus="sample" mode="false" >}}
 {.mb-3}
-{{< navbar id="navbar-color-2" path="blog" color="secondary" size="sm" search="false" menus="sample" mode="false" >}}
+{{< navbar id="navbar-color-2" path="blog" color="secondary" button-size="sm" search="false" menus="sample" mode="false" >}}
 {.mb-3}
-{{< navbar id="navbar-color-4" path="blog" color="danger" size="sm" search="false" menus="sample" mode="false" >}}
+{{< navbar id="navbar-color-4" path="blog" color="danger" button-size="sm" search="false" menus="sample" mode="false" >}}
 {.mb-3}
-{{< navbar id="navbar-color-6" path="blog" color="info" size="sm" search="false" menus="sample" mode="false" >}}
+{{< navbar id="navbar-color-6" path="blog" color="info" button-size="sm" search="false" menus="sample" mode="false" >}}
 {.mb-3}
-{{< navbar id="navbar-color-7" path="blog" color="white" size="sm" search="false" menus="sample" mode="false" >}}
+{{< navbar id="navbar-color-7" path="blog" color="white" button-size="sm" search="false" menus="sample" mode="false" >}}
 {.mb-3}
-{{< navbar id="navbar-color-8" path="blog" color="black" size="sm" search="false" menus="sample" mode="false" >}}
+{{< navbar id="navbar-color-8" path="blog" color="black" button-size="sm" search="false" menus="sample" mode="false" >}}
 {.mb-3}
-{{< navbar id="navbar-color-10" path="blog" color="body-tertiary" size="sm" search="false" menus="sample" mode="false" >}}
+{{< navbar id="navbar-color-10" path="blog" color="body-tertiary" button-size="sm" search="false" menus="sample" mode="false" >}}
 
 <!-- Search input -->
-{{< navbar id="navbar-search-1" search="true" path="blog" color="body" size="md" menus="sample" mode="false" >}}
+{{< navbar id="navbar-search-1" search="true" path="blog" color="body" button-size="md" menus="sample" mode="false" >}}
 
 <!-- Mode switcher -->
-{{< navbar id="navbar-mode-1" mode="true" search="false" path="blog" color="body" size="md" menus="sample" >}}
+{{< navbar id="navbar-mode-1" mode="true" search="false" path="blog" color="body" button-size="md" menus="sample" >}}
 
 
 ## Persona
@@ -469,10 +469,10 @@ Loading...
 {{< button toast="toast-example-2" >}}
     Show toast 2
 {{< /button >}}
-{{< toast id="toast-example-1" header="First title" >}}
+{{< toast id="toast-example-1" title="First title" >}}
     This is the first toast message. It supports `markdown.`
 {{< /toast >}}
-{{< toast id="toast-example-2" header="Second title" >}}
+{{< toast id="toast-example-2" title="Second title" >}}
     This is the second toast message. It supports `markdown.`
 {{< /toast >}}
 

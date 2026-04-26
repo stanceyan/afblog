@@ -15,12 +15,12 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 127-134 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 127-134 dekrè sou fonksyon piblik la" show="true" >}}
   Mizandisponibilite an koresponn ak pozisyon fonksyonè ki kite administrasyon an pandan yon tan san l pa sispann fè pati fonksyon piblik la. Men pandan tan sa li sispann benefisye dwa avansman, retrèt ak lòt avantaj.
   
   Mizandisponibilite ki pi long lan dire 1 an e li renouvlab 1 fwa sou demann fonksyonè a.
   {{< /accordion-item >}}
-  {{< accordion-item header="Atik 135-140 dekrè sou fonksyon piblik la" >}}
+  {{< accordion-item title="Atik 135-140 dekrè sou fonksyon piblik la" >}}
   Mizandisponibilite an ka pwononse dofis ou sou demann fonksyonè a, men OMRH dwe bay avi l. Fonksyonè a dwe mande reyintegrasyon l 2 mwa pou pi piti avan mizandisponibilite a fini. Si l pa mande reyentegre l nan delè sa, se tankou l t demisyone.
   {{< /accordion-item >}}
 {{< /accordion >}}

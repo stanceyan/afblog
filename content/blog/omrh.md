@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 30-31 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 30-31 dekrè sou fonksyon piblik la" show="true" >}}
   Se OMRH ki dwe veye sou aplikasyon lwa fonksyon piblik la, sou sekirite, ijyèn ak kondisyon travay fonksyonè yo. Se li ki resevwa ak fe swivi plent ki konsène karyè fonksyonè yo bo kote Konsèy siperyè administrasyon ak fonksyon piblik (CSAFP).
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

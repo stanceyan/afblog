@@ -15,12 +15,12 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 202 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 202 dekrè sou fonksyon piblik la" show="true" >}}
   Fonksyonè yo gen dwa a 3 kalte rekou kont desizyon administrativ ki pran kont yo.
   
   Premye a se rekou grasye. Nan ka sa fonksyonè a al konteste desizyon an devan otorite ki adopte l la. Gen yon lòt rekou grasye li ka fè devan Konsèy siperyè administrasyon ak fonksyon piblik la (CSAFP).
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

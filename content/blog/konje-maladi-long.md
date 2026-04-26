@@ -15,7 +15,7 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 147-148 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 147-148 dekrè sou fonksyon piblik la" show="true" >}}
   Yo akòde konje manch long nan a yon fonksyonè ki poko refè apre peryòd konje maladi a e ki gen yon enkapasite tanporè. Li pa dire plis ke 2 zan. Fonksyonè a ap resevwa:
   - Soti 1 a 5 ane sèvis: yon ka (1/4) nan salè li ;
   - 6 a 14 ane sèvis: mwatye (1/2) nan salè li ;
@@ -24,7 +24,7 @@ thumbnail:
 
   Lè konje long dire an fini, si sèvis konpetan yo konstate enkapasite pèmanan fonksyonè a, li ka mande pansyon avan lè. Si enkapasite a rive apati 1 a 5 ane sèvis, l ap jwenn yon ka (1/4) nan pansyon nòmal li. Soti 5 pou rive 15 ane, l ap resevwa mwatye (1/2) pansyon an. Apati 20tyèm ane sèvis, l ap resevwa tout pansyon l. Si se yon aksidan nan kad travay li ki lakoz enkapasite pèmanan an, l ap resevwa salè l jiska laj pou l pran pansyon.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

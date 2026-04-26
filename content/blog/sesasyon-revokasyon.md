@@ -15,14 +15,14 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 199 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 199 dekrè sou fonksyon piblik la" show="true" >}}
   Lòt fason karyè yon fonksyonè pran bout se revokasyon. Gen 3 motif pou revokasyon yon fonksyonè:
   
   - Abandon pòs
   - Kondanasyon a yon pèn kriminèl
   - Nan ka anrichisman ilisit
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

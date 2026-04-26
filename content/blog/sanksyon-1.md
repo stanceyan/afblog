@@ -16,7 +16,7 @@ draft: false
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 188 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 188 dekrè sou fonksyon piblik la" show="true" >}}
   Sanksyon disiplinè ke siperyè yerachik imedya a ka aplike kont yon fonksyonè se :
   - Avètisman
   - Blam
@@ -24,10 +24,10 @@ draft: false
   Blam lan ap enskri nan dosye fonksyonè a pou pi piti 3 lane e l ap efase otomatikman si pa gen lòt sanksyon ki ajoute sou li pandan peryòd sa.
 
     {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #2" >}}
+  <!-- {{< accordion-item title="Accordion Item #2" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

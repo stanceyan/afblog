@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 92 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 92 dekrè sou fonksyon piblik la" show="true" >}}
   Kategori B : Fonksyonè k ap fe yon travay aplikasyon. Yo dwe boukle yon etid inivèsite sètifye pou pi piti 3 zan pou yo gen aksè a kategori sa.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

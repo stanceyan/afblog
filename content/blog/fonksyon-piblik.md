@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 9-10 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 9-10 dekrè sou fonksyon piblik la" show="true" >}}
   Fonksyon piblik la se yon karyè, se lalwa ki reglemante l sou baz konpetans, merit ak disiplin. Li gen ladan l ansanm ajan piblik ki gen kalite fonksyonè yo.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

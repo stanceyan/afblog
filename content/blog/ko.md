@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 82 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 82 dekrè sou fonksyon piblik la" show="true" >}}
   Nan sousi pou byen òganize rejim karyè a nan fonksyon piblik la, Leta gen obligasyon pou l mete sou pye kò anplwa apati gwo filyè pwofesyonèl transvèsal ak sektoryèl yo pou akonpli misyon esansyèl yo. Kò sa yo ap kreye sou baz arete Premye Minis la ki fikse stati patikilye yo.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}
@@ -27,7 +27,7 @@ thumbnail:
 
   De manière plus génerale, et malgré l'existance de certains corps (grands commis, par exemple), il n'existe pas en Haïti de culture de corps, permettant une meilleure lisibilité des perspectives de carrière et des grilles indiciaires.
 
-  {{</* link cue="true" tab=true href="https://www.oecd-ilibrary.org/sites/f826ac45-fr/1/3/6/index.html?itemId=/content/publication/f826ac45-fr&_csp_=ce301eab5a5b1666275ffb7859dac677&itemIGO=oecd&itemContentType=book" >}}Pour plus de détail{{< /link */>}}
+  {{</* link cue="true"  href="https://www.oecd-ilibrary.org/sites/f826ac45-fr/1/3/6/index.html?itemId=/content/publication/f826ac45-fr&_csp_=ce301eab5a5b1666275ffb7859dac677&itemIGO=oecd&itemContentType=book" >}}Pour plus de détail{{< /link */>}}
 {{< /alert >}}
 
 Sa enpòtan anpil pou asire kowòdinasyon stratejik Leta a sitou pou misyon esansyèl li yo, kreyasyon kò sa yo pèmèt yon meyè jesyon karyè atravè stati patikikye yo ki detèmine nivo etid ak egzijans pwofesyonèl, mòd rekritman, grad ak echlon manb yo ka okipe, fason manm kò sa yo ap avanse epi fason pou yo reminere, se tankou yon jesyon otomatik karyè lè yon fonksyonè fè pati yon kò. 

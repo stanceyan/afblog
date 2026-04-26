@@ -16,10 +16,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 120 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 120 dekrè sou fonksyon piblik la" show="true" >}}
   Sou chak 12 mwa sèvis, fonksyonè a gendwa a 1 mwa konje maladi pou pi plis. Ajan piblik yo gen delè 3 jou (72h) pou motive absans yo, si delè sa pase, yo oblije prezante yon sètifika medikal.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

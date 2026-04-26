@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 47 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 47 dekrè sou fonksyon piblik la" show="true" >}}
   Lakou dèkont se ògan ki la pou tranche sou tout kontestasyon ant fonksyonè ak administrasyon an. Fonksyonè yo gen delè 90 jou pou yo fè rekou kont desizyon konteste a devan Lakou dèkont.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

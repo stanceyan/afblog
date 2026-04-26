@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 149 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 149 dekrè sou fonksyon piblik la" show="true" >}}
   Selon lalwa, administrasyon piblik la garanti kondisyon travay egal ego ak salè a tout fonksyonè selon fonksyon yo okipe. Kidonk pa dwe gen okenn eka nan salè, frè oubyen lòt avantaj ant fonksyonè ki nan menm pozisyon nan administrasyon piblik lan.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

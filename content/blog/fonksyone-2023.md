@@ -5,7 +5,7 @@ date: 2023-06-23
 description: Yon nimewo espesyal pou selebre Jounen entènasyonal Fonksyonè yo
 tags:
   - nimewo espesyal
-searchExclude: true
+# searchExclude: true
 thumbnail:
   url: img/fonksyone-23.jpg
   author: Porcupen
@@ -14,11 +14,11 @@ thumbnail:
   originURL: https://stock.adobe.com/sg/235462517
 ---
   
-{{< alert type="info" >}}
+{{< alert color="info" >}}
 Le thème de la Journée de la fonction publique en Haiti, le 23 juin 2023 est : « **Une fonction publique en transformation plus attractive et plus ouverte au service de l'efficacité de l'administration** ». 
 {{< /alert >}}
 
-*La Journée des Nations Unies pour la fonction publique, proclamée en 2003 par l'Assemblée générale des Nations Unies dans sa {{< link cue="true" tab=true href="https://undocs.org/fr/A/RES/57/277" >}}résolution A/RES/57/277{{< /link >}}, met en valeur le rôle de l'administration publique pour le développement et auprès des communautés.*
+*La Journée des Nations Unies pour la fonction publique, proclamée en 2003 par l'Assemblée générale des Nations Unies dans sa {{< link cue="true"  href="https://undocs.org/fr/A/RES/57/277" >}}résolution A/RES/57/277{{< /link >}}, met en valeur le rôle de l'administration publique pour le développement et auprès des communautés.*
 
 Nan okazyon jounen mondyal fonksyonè yo, Alo Fonksyonè ap voye yo gwo kout chapo pou tout ajan piblik alawonnbadè ak tout fonksyonè an patikilye. San fonksyonè pa gen fonksyon piblik, san fonksyon piblik pa gen administrasyon piblik. San administrasyon piblik pa gen politik piblik, san politik piblik pa gen aksyon gouvènmantal, brèf! pa gen Leta san fonksyonè.
 
@@ -30,13 +30,13 @@ Chapo ba!
 
 Alo Fonsyonè swete ke gen konkou ki òganize regilyèman pou bay aksè a fonksyon piblik la e kandidati medam yo dwe ankouraje.
 
-{{< nav type="tabs" id="tabs-1" >}}
-  {{< nav-item header="pdf" show="true" >}}
+{{< nav tab-type="tabs" id="tabs-1" >}}
+  {{< nav-item title="pdf" show="true" >}}
     {{</* link cue="true" href="http://omrh.gouv.ht/Media/news/rfph_201802.pdf" >}}Document à consulter{{< /link */>}} : 
     
     Rapport sur les effectifs de la fonction publique en Haïti (2018), CAP / OMRH
   {{< /nav-item >}}
-  {{< nav-item header="graphe" >}}
+  {{< nav-item title="graphe" >}}
     {{</* image src="img/rfph-fonksyone.png" caption="Source: Calcul effectué à l'aide des données du SysPay, dec. 2017" class="rounded" */>}}
   {{< /nav-item >}}
 {{< /nav >}}

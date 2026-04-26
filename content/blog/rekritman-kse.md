@@ -15,13 +15,13 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 11 arete sou òganizasyon konkou nan Leta" show="true" >}}
+  {{< accordion-item title="Atik 11 arete sou òganizasyon konkou nan Leta" show="true" >}}
   Lè konpetans administrasyon an ap chèche a pa ka verifye so tit sèlman, se yon konkou sou eprèv li dwe òganize. kandida yo ap pase yon egzamen k ap pèmèt yo teste aptitid ak konpetans yo pou pòs la apresa y ap pase yon antrevi (oral).
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #2" >}}
+  <!-- {{< accordion-item title="Accordion Item #2" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

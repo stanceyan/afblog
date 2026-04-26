@@ -5,7 +5,7 @@ date: 2022-06-23
 description: Yon nimewo espesyal pou selebre Jounen entènasyonal Fonksyonè yo
 tags:
   - nimewo espesyal
-searchExclude: true
+# searchExclude: true
 thumbnail:
   url: img/fonksyone-23.jpg
   author: Porcupen
@@ -14,11 +14,11 @@ thumbnail:
   originURL: https://stock.adobe.com/sg/235462517
 ---
 
-{{< alert type="info" >}}
+{{< alert color="info" >}}
 Le thème de la Journée de la fonction publique en Haiti, le 23 juin 2022 est : « **Une fonction publique rénovée au service des usagers** ». 
 {{< /alert >}}
 
-*La Journée des Nations Unies pour la fonction publique, proclamée en 2003 par l'Assemblée générale des Nations Unies dans sa {{< link cue="true" tab=true href="https://undocs.org/fr/A/RES/57/277" >}}résolution A/RES/57/277{{< /link >}}, met en valeur le rôle de l'administration publique pour le développement et auprès des communautés.*
+*La Journée des Nations Unies pour la fonction publique, proclamée en 2003 par l'Assemblée générale des Nations Unies dans sa {{< link cue="true"  href="https://undocs.org/fr/A/RES/57/277" >}}résolution A/RES/57/277{{< /link >}}, met en valeur le rôle de l'administration publique pour le développement et auprès des communautés.*
 
 Nan okazyon jounen mondyal fonksyonè yo, Alo fonksyonè mete chapo l byen ba pou salye tout fonksyonè leta nan peyi Dayiti.
 

@@ -16,13 +16,13 @@ draft: false
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 9.2 arete sou òganizasyon konkou nan Leta" show="true" >}}
+  {{< accordion-item title="Atik 9.2 arete sou òganizasyon konkou nan Leta" show="true" >}}
   Gen rekritman entèn ak rekritman ekstèn nan fonksyon piblik la. Lè konpetans ak eksperyans ki nesesè pou pòs ki vakan an disponib pami pèsonèl la, yo ka itilize rekritman entèn. Lè sa fonksyonè yo ap patisipe nan konkirans entèn e pwosesis la dwe gen menm rigè ak rekritman ekstèn lan e yo dwe reyalize selon menm kondisyon transparans.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #2" >}}
+  <!-- {{< accordion-item title="Accordion Item #2" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

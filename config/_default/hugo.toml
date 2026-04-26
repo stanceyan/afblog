@@ -42,6 +42,9 @@ home = ["HTML", "RSS", "REDIR"]
 [taxonomies]
   tag = 'tags'
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [services]
   [services.googleAnalytics]
     ID = "G-6VGGGFL955"
@@ -53,6 +56,10 @@ home = ["HTML", "RSS", "REDIR"]
     version = 2022
   [minify.tdewolff.html]
     keepWhitespace = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [module]
   [[module.mounts]]
@@ -74,6 +81,8 @@ home = ["HTML", "RSS", "REDIR"]
       source = 'archetypes'
       target = 'archetypes'
 
+  [[module.imports]]
+  path = "github.com/gethinode/mod-blocks"
 
   [[module.imports]]
-  path = 'github.com/gethinode/hinode'
+  path = 'github.com/gethinode/hinode/v2'

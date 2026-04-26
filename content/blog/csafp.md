@@ -14,10 +14,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 23 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 23 dekrè sou fonksyon piblik la" show="true" >}}
   Wòl Konsèy siperyè administrasyon ak fonksyon piblik la (CSAFP) se fòmile politik jeneral gouvènman an nan domèn administrasyon ak jesyon resous imèn.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

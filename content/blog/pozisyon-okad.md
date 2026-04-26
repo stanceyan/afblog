@@ -15,12 +15,12 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 144-146 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 144-146 dekrè sou fonksyon piblik la" show="true" >}}
   Pozisyon òkad la koresponn ak sityasyon fonksyonè ki kontinye egzèse yon chaj politik aprè ekspirasyon peryòd mizandetachman l. Pou sa li dwe mande mete l òkad. Kidonk òkad la se pwolonjman mizandetachman an sofke fonksyonè a sispann benefisye dwa a avansman epi retrèt.
 
   Pozisyon òkad la pa gen yon dire limite e li fini sou demann fonksyonè a pou reyentegrasyon l ki pa otomatik.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header=".." >}}
+  <!-- {{< accordion-item title=".." >}}
   .
   {{< /accordion-item >}} -->
 {{< /accordion >}}

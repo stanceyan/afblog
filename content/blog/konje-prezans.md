@@ -15,12 +15,12 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 124-126 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 124-126 dekrè sou fonksyon piblik la" show="true" >}}
   Tout fonksyonè ki gen yon pitit, yon paran malad oubyen ki fè aksidan ka mande konje prezans parantal.
 
   Konje sa obligatwa lè se pitit, konjwen, papa, manman, bèlmè oubyen bòpè fonksyonè a ki mouri. Se yon konjeki pa ka dire plis ke 5 jou.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}

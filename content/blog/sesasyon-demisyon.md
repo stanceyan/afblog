@@ -15,10 +15,10 @@ thumbnail:
 ---
 
 {{< accordion >}}
-  {{< accordion-item header="Atik 197 dekrè sou fonksyon piblik la" show="true" >}}
+  {{< accordion-item title="Atik 197 dekrè sou fonksyon piblik la" show="true" >}}
   Youn nan lòt fason karyè yon fonksyonè pran bout se lè li demisyone. Demisyon an dwe fèt pa ekri e li dwe eksprime volonte fonksyonè a klè pou l mete fen a fonksyon l. Demand demisyon an dwe fèt ak yon preyavi yon mwa pou pi piti.
   {{< /accordion-item >}}
-  <!-- {{< accordion-item header="Accordion Item #3" >}}
+  <!-- {{< accordion-item title="Accordion Item #3" >}}
     This is the third item's accordion body.
   {{< /accordion-item >}} -->
 {{< /accordion >}}
