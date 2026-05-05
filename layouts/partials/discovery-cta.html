@@ -1,0 +1,18 @@
+{{- /* Discovery CTA section */ -}}
+<section class="py-6">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2">
+        <div class="discovery-cta">
+          <h3>{{ .Params.ctaTitle | default "Can't find what you need?" }}</h3>
+          <p>
+            {{- .Params.ctaText | default "We're here to help. Get in touch with our team for personalized assistance." -}}
+          </p>
+          <a href="mailto:{{ .Params.ctaEmail | default "support@example.com" }}" class="btn btn-primary">
+            Nous contacter <i class="ms-2 fas fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

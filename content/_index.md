@@ -79,7 +79,7 @@ content_blocks:
     anchor: Center
   links:
     - title: Explorer
-      url: '#!'
+      url: /discovery
       icon: chevron-right
   order: first
   background:

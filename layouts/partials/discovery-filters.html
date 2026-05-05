@@ -1,0 +1,23 @@
+{{- /* Discovery filters section */ -}}
+<section class="discovery-filters py-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10">
+        <label class="discovery-filter-label">Filtrer par catégorie:</label>
+        <div class="filter-pills" id="categoryFilters">
+          {{- range .Site.Data.documents.categories }}
+          <button
+            class="filter-pill {{ if eq .name "All" }}active{{ end }}"
+            data-category="{{ .name }}"
+            aria-pressed="{{ if eq .name "All" }}true{{ else }}false{{ end }}"
+          >
+            <i class="{{ .icon }}"></i>
+            {{ .name }}
+          </button>
+          {{- end }}
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>

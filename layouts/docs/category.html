@@ -1,0 +1,89 @@
+{{ define "main" }}
+{{- $category := .Params.category -}}
+{{- $allDocs := .Site.Data.documents.documents -}}
+{{- $catDocs := slice -}}
+{{- range $allDocs -}}
+  {{- if eq .category $category -}}
+    {{- $catDocs = $catDocs | append . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Load discovery styles */ -}}
+{{ $discovery_css := resources.Get "css/discovery.css" | minify }}
+<link rel="stylesheet" href="{{ $discovery_css.RelPermalink }}" integrity="{{ $discovery_css.Data.Integrity }}" crossorigin="anonymous">
+
+<section class="hero-discovery py-6 py-lg-8">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <nav aria-label="breadcrumb" class="mb-3">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="{{ "discovery" | relURL }}">Documents</a></li>
+            <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+          </ol>
+        </nav>
+        <h1 class="mb-3">{{ .Title }}</h1>
+        <p class="subtitle">{{ .Params.description }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="py-6">
+  <div class="container">
+    <div class="discovery-results-header">
+      <h2>All {{ .Title }}</h2>
+      <span class="results-count">{{ len $catDocs }} résultats</span>
+    </div>
+
+    {{- if $catDocs }}
+    <div class="discovery-list">
+      {{- range $catDocs }}
+      <a href="{{ "discovery" | relURL }}" class="document-card">
+        <div class="document-header">
+          <h3 class="document-title">{{ .title }}</h3>
+          {{- if .author }}
+          <span class="document-author"> par {{ .author }}</span>
+          {{- end }}
+        </div>
+        <div class="document-meta">
+          <span class="meta-badge">
+            <i class="fas fa-folder"></i>
+            {{ .category }}
+          </span>
+          {{- if .date }}
+          <span class="meta-badge">
+            <i class="fas fa-calendar"></i>
+            {{ .date }}
+          </span>
+          {{- end }}
+        </div>
+        <p class="document-description">{{ .description }}</p>
+        {{- if .tags }}
+        <div class="document-footer">
+          <div class="document-tags">
+            {{- range .tags }}
+            <span class="tag">{{ . }}</span>
+            {{- end }}
+          </div>
+          <span class="read-more">Lire la suite <i class="fas fa-arrow-right"></i></span>
+        </div>
+        {{- end }}
+      </a>
+      {{- end }}
+    </div>
+    {{- else }}
+    <div class="alert alert-info">
+      <i class="fas fa-circle-info me-2"></i>
+      No documents available in this category yet.
+    </div>
+    {{- end }}
+
+    <div class="mt-5">
+      <a href="{{ "discovery" | relURL }}" class="btn btn-outline-primary">
+        <i class="fas fa-arrow-left me-2"></i>Back to all documents
+      </a>
+    </div>
+  </div>
+</section>
+{{ end }}

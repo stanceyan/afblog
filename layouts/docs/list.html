@@ -1,0 +1,42 @@
+{{ define "main" }}
+{{- $categories := .Site.Data.documents.categories -}}
+
+{{- $discovery_css := resources.Get "css/discovery.css" | minify }}
+<link rel="stylesheet" href="{{ $discovery_css.RelPermalink }}" integrity="{{ $discovery_css.Data.Integrity }}" crossorigin="anonymous">
+
+<section class="hero-discovery py-6 py-lg-8">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <h1 class="mb-3">Browse by Category</h1>
+        <p class="subtitle">Select a category to explore all related documents.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="py-6">
+  <div class="container">
+    <div class="row g-4">
+      {{- range $categories }}
+      {{- if ne .name "All" }}
+      <div class="col-sm-6 col-lg-4">
+        <a href="{{ printf "/docs/%s/" .slug | relURL }}" class="document-card d-flex flex-column gap-2 h-100 text-decoration-none">
+          <div class="document-header">
+            <h3 class="document-title">
+              <i class="{{ .icon }} me-2 text-primary"></i>{{ .name }}
+            </h3>
+          </div>
+        </a>
+      </div>
+      {{- end }}
+      {{- end }}
+    </div>
+    <div class="mt-5">
+      <a href="{{ "/discovery/" | relURL }}" class="btn btn-outline-primary">
+        <i class="fas fa-search me-2"></i>Search all documents
+      </a>
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,95 @@
+{{- /* Discovery document list section */ -}}
+<section class="py-6">
+  <div class="container">
+    {{- /* Results header */ -}}
+    <div class="discovery-results-header">
+      <h2>Tous les documnents</h2>
+      <span class="results-count"><span id="resultCount">{{ .Site.Data.documents.documents | len }}</span> résultats</span>
+    </div>
+
+    {{- /* Document list */ -}}
+    <div class="discovery-list" id="documentList">
+      {{- if .Site.Data.documents.documents }}
+        {{- range .Site.Data.documents.documents }}
+        <a href="{{ .url | relURL }}" class="document-card" data-category="{{ .category }}" data-title="{{ .title }}" data-description="{{ .description }}">
+          <div class="document-header">
+            <h3 class="document-title">{{ .title }}</h3>
+            {{- if .author }}
+            <span class="document-author"> par {{ .author }}</span>
+            {{- end }}
+          </div>
+
+          <div class="document-meta">
+            <span class="meta-badge">
+              <i class="fas fa-folder"></i>
+              {{ .category }}
+            </span>
+            {{- if .date }}
+            <span class="meta-badge">
+              <i class="fas fa-calendar"></i>
+              {{ .date | dateFormat "January 2, 2006" }}
+            </span>
+            {{- end }}
+          </div>
+
+          <p class="document-description">{{ .description }}</p>
+
+          {{- if .tags }}
+          <div class="document-footer">
+            <div class="document-tags">
+              {{- range .tags }}
+              <span class="tag">{{ . }}</span>
+              {{- end }}
+            </div>
+            <span class="read-more">
+              Lire la suite <i class="fas fa-arrow-right"></i>
+            </span>
+          </div>
+          {{- else }}
+          <div class="document-footer">
+            <div></div>
+            <span class="read-more">
+              Lire la suite <i class="fas fa-arrow-right"></i>
+            </span>
+          </div>
+          {{- end }}
+        </a>
+        {{- end }}
+      {{- else }}
+      <div class="alert alert-info">
+        <i class="fas fa-circle-info me-2"></i>
+        No documents available yet.
+      </div>
+      {{- end }}
+    </div>
+
+    {{- /* Empty state (hidden by default, shown via JS) */ -}}
+    <div id="emptyState" class="discovery-empty" style="display: none;">
+      <div class="empty-icon">
+        <i class="fas fa-inbox"></i>
+      </div>
+      <h3>Aucun document trouvé</h3>
+      <p id="emptyMessage">Try adjusting your search or filters to find what you're looking for.</p>
+    </div>
+
+    {{- /* Pagination controls */ -}}
+    <nav id="paginationContainer" class="discovery-pagination" aria-label="Document pagination">
+      <div class="pagination-controls">
+        <button id="prevBtn" class="pagination-btn pagination-prev" aria-label="Previous page">
+          <i class="fas fa-chevron-left"></i>
+          Précédent
+        </button>
+        
+        <div class="pagination-numbers" id="pageNumbers"></div>
+        
+        <button id="nextBtn" class="pagination-btn pagination-next" aria-label="Next page">
+          Suivant
+          <i class="fas fa-chevron-right"></i>
+        </button>
+      </div>
+      <div class="pagination-info">
+        Page <span id="currentPageNum">1</span> of <span id="totalPageNum">1</span>
+      </div>
+    </nav>
+  </div>
+</section>

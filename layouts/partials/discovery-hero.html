@@ -1,0 +1,31 @@
+{{- /* Discovery hero section with search */ -}}
+<section class="hero-discovery py-6 py-lg-8">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <h1 class="mb-3">{{ .Params.heroTitle | default "Discover Documents" }}</h1>
+        <p class="subtitle">
+          {{- .Params.heroSubtitle | default "Browse our comprehensive collection of guides, tutorials, and resources." -}}
+        </p>
+      </div>
+    </div>
+
+    {{- /* Search Input */ -}}
+    <div class="row mt-4">
+      <div class="col-lg-8">
+        <div class="discovery-search-container">
+          <div class="discovery-search">
+            <i class="fas fa-magnifying-glass search-icon"></i>
+            <input 
+              type="text" 
+              id="documentSearch" 
+              class="form-control form-control-lg"
+              placeholder="Rechercher un document par titre ou description…"
+              aria-label="Search documents"
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

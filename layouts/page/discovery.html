@@ -1,0 +1,24 @@
+{{- /* Document discovery page layout */ -}}
+{{ define "main" }}
+
+{{- /* Load discovery styles */ -}}
+{{ $discovery_css := resources.Get "css/discovery.css" | minify }}
+<link rel="stylesheet" href="{{ $discovery_css.RelPermalink }}" integrity="{{ $discovery_css.Data.Integrity }}" crossorigin="anonymous">
+
+<!-- Hero Section with Search -->
+{{ partial "discovery-hero.html" . }}
+
+<!-- Filter Section -->
+{{ partial "discovery-filters.html" . }}
+
+<!-- Document List Section -->
+{{ partial "discovery-documents.html" . }}
+
+<!-- CTA Section -->
+{{ partial "discovery-cta.html" . }}
+
+<!-- Discovery Filter Script -->
+{{ $discovery_js := resources.Get "js/discovery.js" | minify }}
+<script src="{{ $discovery_js.RelPermalink }}" integrity="{{ $discovery_js.Data.Integrity }}" crossorigin="anonymous"></script>
+
+{{ end }}
